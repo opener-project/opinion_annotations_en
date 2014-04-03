@@ -20,6 +20,10 @@
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
       <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:48CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:32CEST"/>
+    </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:32CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1288,42 +1292,7 @@
       </references>
     </entity>
   </entities>
-  <features>
-    <properties>
-      <property lemma="facilities" pid="p1">
-        <references>
-          <!--dived-->
-          <span>
-            <target id="t16"/>
-          </span>
-          <!--dive-->
-          <span>
-            <target id="t40"/>
-          </span>
-          <!--diving-->
-          <span>
-            <target id="t65"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="restaurant" pid="p2">
-        <references>
-          <!--waiters-->
-          <span>
-            <target id="t92"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="staff" pid="p3">
-        <references>
-          <!--professional-->
-          <span>
-            <target id="t47"/>
-          </span>
-        </references>
-      </property>
-    </properties>
-  </features>
+  <features/>
   <constituency>
     <tree>
       <!--Non-terminals-->

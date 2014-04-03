@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:08:40+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:52CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -438,17 +441,16 @@
   </deps>
   <features>
     <properties>
-      <property lemma="location" pid="p1">
+      <property pid="p0" lemma="Location">
         <references>
-          <!--place-->
           <span>
+            <target id="t9"/>
             <target id="t10"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p2">
+      <property pid="p1" lemma="Staff">
         <references>
-          <!--Staff-->
           <span>
             <target id="t36"/>
           </span>

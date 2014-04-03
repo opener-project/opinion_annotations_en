@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:44:29+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:52CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1208,47 +1211,53 @@
   </entities>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Interior/exterior">
         <references>
-          <!--free-->
+          <span>
+            <target id="t20"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Value-for-money">
+        <references>
           <span>
             <target id="t68"/>
           </span>
         </references>
       </property>
-      <property lemma="internet" pid="p2">
+      <property pid="p2" lemma="Value-for-money">
         <references>
-          <!--Wireless-->
+          <span>
+            <target id="t50"/>
+            <target id="t51"/>
+            <target id="t52"/>
+            <target id="t53"/>
+            <target id="t54"/>
+            <target id="t55"/>
+            <target id="t56"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p3" lemma="Internet">
+        <references>
           <span>
             <target id="t46"/>
-          </span>
-          <!--Internet-->
-          <span>
             <target id="t47"/>
           </span>
         </references>
       </property>
-      <property lemma="room" pid="p3">
+      <property pid="p4" lemma="Interior/exterior">
         <references>
-          <!--rooms-->
           <span>
-            <target id="t39"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="location" pid="p4">
-        <references>
-          <!--area-->
-          <span>
+            <target id="t8"/>
             <target id="t9"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p5">
+      <property pid="p5" lemma="Interior/exterior">
         <references>
-          <!--reception-->
           <span>
-            <target id="t8"/>
+            <target id="t17"/>
           </span>
         </references>
       </property>

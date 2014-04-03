@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:43:51+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:33CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:48CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:33CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1504,87 +1507,84 @@
   </entities>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Noisiness">
         <references>
-          <!--pay-->
           <span>
-            <target id="t5"/>
-          </span>
-          <!--cheap-->
-          <span>
-            <target id="t42"/>
-          </span>
-          <!--price-->
-          <span>
-            <target id="t43"/>
-          </span>
-          <!--price-->
-          <span>
-            <target id="t54"/>
-          </span>
-          <!--price-->
-          <span>
-            <target id="t93"/>
-          </span>
-          <!--cheap-->
-          <span>
-            <target id="t148"/>
+            <target id="t110"/>
+            <target id="t111"/>
+            <target id="t112"/>
+            <target id="t113"/>
           </span>
         </references>
       </property>
-      <property lemma="bathroom" pid="p2">
+      <property pid="p1" lemma="Rooms">
         <references>
-          <!--toilet-->
           <span>
-            <target id="t122"/>
+            <target id="t100"/>
           </span>
         </references>
       </property>
-      <property lemma="noise" pid="p3">
+      <property pid="p2" lemma="Noisiness">
         <references>
-          <!--noise-->
           <span>
             <target id="t108"/>
           </span>
-          <!--noise-->
+        </references>
+      </property>
+      <property pid="p3" lemma="Interior/exterior">
+        <references>
           <span>
-            <target id="t113"/>
+            <target id="t102"/>
+            <target id="t103"/>
           </span>
-          <!--noise-->
+        </references>
+      </property>
+      <property pid="p4" lemma="Value-for-money">
+        <references>
+          <span>
+            <target id="t90"/>
+            <target id="t91"/>
+            <target id="t92"/>
+            <target id="t93"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p5" lemma="Value-for-money">
+        <references>
+          <span>
+            <target id="t54"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p6" lemma="Value-for-money">
+        <references>
+          <span>
+            <target id="t41"/>
+            <target id="t42"/>
+            <target id="t43"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p7" lemma="Noisiness">
+        <references>
           <span>
             <target id="t160"/>
           </span>
         </references>
       </property>
-      <property lemma="location" pid="p4">
+      <property pid="p8" lemma="Value-for-money">
         <references>
-          <!--located-->
           <span>
-            <target id="t64"/>
-          </span>
-          <!--close-->
-          <span>
-            <target id="t66"/>
-          </span>
-          <!--center-->
-          <span>
-            <target id="t70"/>
+            <target id="t147"/>
+            <target id="t148"/>
           </span>
         </references>
       </property>
-      <property lemma="room" pid="p5">
+      <property pid="p9" lemma="Location">
         <references>
-          <!--room-->
           <span>
-            <target id="t100"/>
-          </span>
-          <!--furniture-->
-          <span>
-            <target id="t103"/>
-          </span>
-          <!--room-->
-          <span>
-            <target id="t136"/>
+            <target id="t69"/>
+            <target id="t70"/>
           </span>
         </references>
       </property>

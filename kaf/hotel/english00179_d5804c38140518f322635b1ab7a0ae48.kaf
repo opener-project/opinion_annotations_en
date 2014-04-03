@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:32:34+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:49CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1206,103 +1209,136 @@
   </entities>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Location">
         <references>
-          <!--free-->
           <span>
-            <target id="t62"/>
-          </span>
-          <!--Free-->
-          <span>
-            <target id="t70"/>
+            <target id="t113"/>
           </span>
         </references>
       </property>
-      <property lemma="room" pid="p2">
+      <property pid="p1" lemma="Interior/exterior">
         <references>
-          <!--rooms-->
+          <span>
+            <target id="t23"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p2" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t55"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p3" lemma="Location">
+        <references>
+          <span>
+            <target id="t4"/>
+            <target id="t5"/>
+            <target id="t6"/>
+            <target id="t7"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p4" lemma="Interior/exterior">
+        <references>
+          <span>
+            <target id="t30"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p5" lemma="Interior/exterior">
+        <references>
+          <span>
+            <target id="t40"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p6" lemma="Rooms">
+        <references>
           <span>
             <target id="t32"/>
           </span>
-          <!--room-->
+        </references>
+      </property>
+      <property pid="p7" lemma="Facilities">
+        <references>
           <span>
+            <target id="t71"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p8" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t63"/>
+            <target id="t64"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p9" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t57"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p10" lemma="Rooms">
+        <references>
+          <span>
+            <target id="t52"/>
             <target id="t53"/>
           </span>
         </references>
       </property>
-      <property lemma="restaurant" pid="p3">
+      <property pid="p11" lemma="Facilities">
         <references>
-          <!--drinks-->
           <span>
-            <target id="t64"/>
-          </span>
-          <!--restaurants-->
-          <span>
-            <target id="t101"/>
+            <target id="t59"/>
+            <target id="t60"/>
           </span>
         </references>
       </property>
-      <property lemma="cleanliness" pid="p4">
+      <property pid="p12" lemma="Facilities">
         <references>
-          <!--clean-->
+          <span>
+            <target id="t75"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p13" lemma="Cleanliness">
+        <references>
           <span>
             <target id="t11"/>
           </span>
         </references>
       </property>
-      <property lemma="facilities" pid="p5">
+      <property pid="p14" lemma="Location">
         <references>
-          <!--minibar-->
           <span>
-            <target id="t63"/>
-          </span>
-          <!--gym-->
-          <span>
-            <target id="t71"/>
-          </span>
-          <!--spa-->
-          <span>
-            <target id="t75"/>
-          </span>
-          <!--shops-->
-          <span>
-            <target id="t99"/>
+            <target id="t93"/>
+            <target id="t94"/>
           </span>
         </references>
       </property>
-      <property lemma="location" pid="p6">
+      <property pid="p15" lemma="Location">
         <references>
-          <!--area-->
-          <span>
-            <target id="t5"/>
-          </span>
-          <!--location-->
           <span>
             <target id="t85"/>
           </span>
-          <!--situated-->
+        </references>
+      </property>
+      <property pid="p16" lemma="Staff">
+        <references>
           <span>
-            <target id="t88"/>
-          </span>
-          <!--close-->
-          <span>
-            <target id="t103"/>
-          </span>
-          <!--downtown-->
-          <span>
-            <target id="t113"/>
-          </span>
-          <!--located-->
-          <span>
-            <target id="t119"/>
+            <target id="t66"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p7">
+      <property pid="p17" lemma="Location">
         <references>
-          <!--friendly-->
           <span>
-            <target id="t68"/>
+            <target id="t111"/>
           </span>
         </references>
       </property>

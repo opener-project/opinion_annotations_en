@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:50:02+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:51CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -975,31 +978,39 @@
   </deps>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Value-for-money">
         <references>
-          <!--EXPENSIVE-->
           <span>
             <target id="t9"/>
           </span>
         </references>
       </property>
-      <property lemma="location" pid="p2">
+      <property pid="p1" lemma="Location">
         <references>
-          <!--location-->
           <span>
-            <target id="t71"/>
+            <target id="t89"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p3">
+      <property pid="p2" lemma="Value-for-money">
         <references>
-          <!--owner-->
           <span>
-            <target id="t36"/>
+            <target id="t100"/>
           </span>
-          <!--friendly-->
+        </references>
+      </property>
+      <property pid="p3" lemma="Location">
+        <references>
           <span>
-            <target id="t38"/>
+            <target id="t82"/>
+            <target id="t83"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p4" lemma="Location">
+        <references>
+          <span>
+            <target id="t71"/>
           </span>
         </references>
       </property>

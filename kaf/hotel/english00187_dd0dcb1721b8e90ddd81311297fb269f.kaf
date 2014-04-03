@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:36:20+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:51CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1255,83 +1258,45 @@
   </deps>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Rooms">
         <references>
-          <!--euros-->
-          <span>
-            <target id="t136"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="room" pid="p2">
-        <references>
-          <!--Rooms-->
           <span>
             <target id="t18"/>
           </span>
-          <!--furniture-->
+        </references>
+      </property>
+      <property pid="p1" lemma="Interior/exterior">
+        <references>
           <span>
             <target id="t28"/>
           </span>
-          <!--room-->
-          <span>
-            <target id="t41"/>
-          </span>
-          <!--room-->
-          <span>
-            <target id="t53"/>
-          </span>
         </references>
       </property>
-      <property lemma="cleanliness" pid="p3">
+      <property pid="p2" lemma="Cleanliness">
         <references>
-          <!--smell-->
           <span>
             <target id="t38"/>
           </span>
         </references>
       </property>
-      <property lemma="sleeping_comfort" pid="p4">
+      <property pid="p3" lemma="Rooms">
         <references>
-          <!--linens-->
           <span>
-            <target id="t31"/>
+            <target id="t41"/>
           </span>
-          <!--bed-->
+        </references>
+      </property>
+      <property pid="p4" lemma="Beds">
+        <references>
           <span>
             <target id="t34"/>
           </span>
         </references>
       </property>
-      <property lemma="facilities" pid="p5">
+      <property pid="p5" lemma="Beds">
         <references>
-          <!--trip-->
           <span>
-            <target id="t6"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="location" pid="p6">
-        <references>
-          <!--front-->
-          <span>
-            <target id="t70"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="staff" pid="p7">
-        <references>
-          <!--check-->
-          <span>
-            <target id="t57"/>
-          </span>
-          <!--desk-->
-          <span>
-            <target id="t71"/>
-          </span>
-          <!--desk-->
-          <span>
-            <target id="t77"/>
+            <target id="t31"/>
           </span>
         </references>
       </property>

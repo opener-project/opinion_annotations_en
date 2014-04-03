@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:21:52+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:50CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1230,31 +1233,39 @@
   </entities>
   <features>
     <properties>
-      <property lemma="room" pid="p1">
+      <property pid="p0" lemma="Restaurant">
         <references>
-          <!--sleep-->
-          <span>
-            <target id="t97"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="restaurant" pid="p2">
-        <references>
-          <!--dinner-->
-          <span>
-            <target id="t77"/>
-          </span>
-          <!--food-->
           <span>
             <target id="t100"/>
           </span>
-          <!--drinks-->
+        </references>
+      </property>
+      <property pid="p1" lemma="Restaurant">
+        <references>
           <span>
             <target id="t121"/>
           </span>
-          <!--bar-->
+        </references>
+      </property>
+      <property pid="p2" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t127"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p3" lemma="Facilities">
+        <references>
           <span>
             <target id="t131"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p4" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t79"/>
+            <target id="t80"/>
           </span>
         </references>
       </property>

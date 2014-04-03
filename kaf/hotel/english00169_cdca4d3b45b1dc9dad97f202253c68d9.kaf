@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:27:32+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:32CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:47CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:32CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -737,33 +740,33 @@
   </entities>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Reservation/check-in/check-out">
         <references>
-          <!--money-->
           <span>
+            <target id="t29"/>
+            <target id="t30"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Noisiness">
+        <references>
+          <span>
+            <target id="t47"/>
+            <target id="t48"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p2" lemma="Value-for-money">
+        <references>
+          <span>
+            <target id="t6"/>
+            <target id="t7"/>
             <target id="t8"/>
           </span>
         </references>
       </property>
-      <property lemma="noise" pid="p2">
+      <property pid="p3" lemma="Staff">
         <references>
-          <!--noisy-->
-          <span>
-            <target id="t48"/>
-          </span>
-          <!--noise-->
-          <span>
-            <target id="t67"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="staff" pid="p3">
-        <references>
-          <!--check-->
-          <span>
-            <target id="t29"/>
-          </span>
-          <!--reception-->
           <span>
             <target id="t73"/>
           </span>

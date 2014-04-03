@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:42:06+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:52CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1254,55 +1257,32 @@
   </entities>
   <features>
     <properties>
-      <property lemma="cleanliness" pid="p1">
+      <property pid="p0" lemma="Cleanliness">
         <references>
-          <!--clean-->
           <span>
+            <target id="t21"/>
             <target id="t22"/>
           </span>
-          <!--tidy-->
+        </references>
+      </property>
+      <property pid="p1" lemma="Staff">
+        <references>
           <span>
-            <target id="t24"/>
+            <target id="t26"/>
           </span>
         </references>
       </property>
-      <property lemma="value_for_money" pid="p2">
+      <property pid="p2" lemma="Restaurant">
         <references>
-          <!--payed-->
-          <span>
-            <target id="t82"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="restaurant" pid="p3">
-        <references>
-          <!--food-->
           <span>
             <target id="t45"/>
           </span>
         </references>
       </property>
-      <property lemma="location" pid="p4">
+      <property pid="p3" lemma="Cleanliness">
         <references>
-          <!--situated-->
           <span>
-            <target id="t87"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="staff" pid="p5">
-        <references>
-          <!--willing-->
-          <span>
-            <target id="t30"/>
-          </span>
-          <!--assist-->
-          <span>
-            <target id="t32"/>
-          </span>
-          <!--help-->
-          <span>
-            <target id="t37"/>
+            <target id="t24"/>
           </span>
         </references>
       </property>

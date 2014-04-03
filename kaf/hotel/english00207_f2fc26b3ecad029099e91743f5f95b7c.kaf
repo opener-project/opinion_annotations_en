@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:45:39+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:33CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:49CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:33CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -414,31 +417,41 @@
   </entities>
   <features>
     <properties>
-      <property lemma="staff" pid="p1">
+      <property pid="p0" lemma="Location">
         <references>
-          <!--personnel-->
           <span>
+            <target id="t31"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Staff">
+        <references>
+          <span>
+            <target id="t38"/>
             <target id="t39"/>
           </span>
         </references>
       </property>
-      <property lemma="location" pid="p2">
+      <property pid="p2" lemma="Location">
         <references>
-          <!--place-->
           <span>
-            <target id="t7"/>
+            <target id="t27"/>
+            <target id="t28"/>
+            <target id="t29"/>
           </span>
         </references>
       </property>
-      <property lemma="restaurant" pid="p3">
+      <property pid="p3" lemma="Location">
         <references>
-          <!--restaurants-->
           <span>
-            <target id="t29"/>
+            <target id="t5"/>
           </span>
-          <!--bars-->
+        </references>
+      </property>
+      <property pid="p4" lemma="Facilities">
+        <references>
           <span>
-            <target id="t31"/>
+            <target id="t19"/>
           </span>
         </references>
       </property>

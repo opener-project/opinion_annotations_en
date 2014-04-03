@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:15:13+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:50CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -447,51 +450,49 @@
   </deps>
   <features>
     <properties>
-      <property lemma="cleanliness" pid="p1">
+      <property pid="p0" lemma="Staff">
         <references>
-          <!--smelling-->
+          <span>
+            <target id="t14"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Rooms">
+        <references>
+          <span>
+            <target id="t20"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p2" lemma="Cleanliness">
+        <references>
           <span>
             <target id="t38"/>
           </span>
         </references>
       </property>
-      <property lemma="value_for_money" pid="p2">
+      <property pid="p3" lemma="Internet">
         <references>
-          <!--MONEY-->
           <span>
+            <target id="t32"/>
+            <target id="t33"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p4" lemma="Value-for-money">
+        <references>
+          <span>
+            <target id="t3"/>
+            <target id="t4"/>
+            <target id="t5"/>
             <target id="t6"/>
           </span>
         </references>
       </property>
-      <property lemma="internet" pid="p3">
+      <property pid="p5" lemma="Rooms">
         <references>
-          <!--internet-->
-          <span>
-            <target id="t32"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="room" pid="p4">
-        <references>
-          <!--room-->
-          <span>
-            <target id="t20"/>
-          </span>
-          <!--room-->
           <span>
             <target id="t36"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="staff" pid="p5">
-        <references>
-          <!--owners-->
-          <span>
-            <target id="t14"/>
-          </span>
-          <!--unfriendly-->
-          <span>
-            <target id="t16"/>
           </span>
         </references>
       </property>

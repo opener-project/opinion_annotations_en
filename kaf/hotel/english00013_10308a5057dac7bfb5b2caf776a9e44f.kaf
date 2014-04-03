@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:13:43+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:49CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -463,63 +466,55 @@
   </deps>
   <features>
     <properties>
-      <property lemma="room" pid="p1">
+      <property pid="p0" lemma="Interior/exterior">
         <references>
-          <!--room-->
+          <span>
+            <target id="t12"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p1" lemma="Rooms">
+        <references>
           <span>
             <target id="t19"/>
           </span>
-          <!--conditioning-->
+        </references>
+      </property>
+      <property pid="p2" lemma="Internet">
+        <references>
           <span>
-            <target id="t26"/>
+            <target id="t44"/>
+            <target id="t45"/>
+            <target id="t46"/>
           </span>
         </references>
       </property>
-      <property lemma="cleanliness" pid="p2">
+      <property pid="p3" lemma="Facilities">
         <references>
-          <!--clean-->
-          <span>
-            <target id="t21"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="facilities" pid="p3">
-        <references>
-          <!--trip-->
-          <span>
-            <target id="t6"/>
-          </span>
-          <!--gym-->
           <span>
             <target id="t32"/>
           </span>
         </references>
       </property>
-      <property lemma="internet" pid="p4">
+      <property pid="p4" lemma="Facilities">
         <references>
-          <!--wifi-->
           <span>
-            <target id="t44"/>
-          </span>
-          <!--internet-->
-          <span>
-            <target id="t45"/>
+            <target id="t25"/>
+            <target id="t26"/>
           </span>
         </references>
       </property>
-      <property lemma="breakfast" pid="p5">
+      <property pid="p5" lemma="Breakfast">
         <references>
-          <!--breakfast-->
           <span>
             <target id="t39"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p6">
+      <property pid="p6" lemma="Cleanliness">
         <references>
-          <!--correct-->
           <span>
-            <target id="t41"/>
+            <target id="t21"/>
           </span>
         </references>
       </property>

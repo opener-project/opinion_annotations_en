@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:12:18+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:52CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1217,87 +1220,120 @@
   </entities>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Location">
         <references>
-          <!--price-->
           <span>
-            <target id="t106"/>
-          </span>
-          <!--money-->
-          <span>
-            <target id="t121"/>
+            <target id="t16"/>
           </span>
         </references>
       </property>
-      <property lemma="noise" pid="p2">
+      <property pid="p1" lemma="Location">
         <references>
-          <!--noise-->
+          <span>
+            <target id="t18"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p2" lemma="Rooms">
+        <references>
+          <span>
+            <target id="t50"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p3" lemma="Value-for-money">
+        <references>
+          <span>
+            <target id="t106"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p4" lemma="Noisiness">
+        <references>
           <span>
             <target id="t54"/>
           </span>
         </references>
       </property>
-      <property lemma="room" pid="p3">
+      <property pid="p5" lemma="Location">
         <references>
-          <!--windows-->
-          <span>
-            <target id="t50"/>
-          </span>
-          <!--sleep-->
-          <span>
-            <target id="t61"/>
-          </span>
-          <!--room-->
-          <span>
-            <target id="t83"/>
-          </span>
-          <!--walls-->
-          <span>
-            <target id="t102"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="cleanliness" pid="p4">
-        <references>
-          <!--fresh-->
-          <span>
-            <target id="t76"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="facilities" pid="p5">
-        <references>
-          <!--shops-->
           <span>
             <target id="t33"/>
           </span>
         </references>
       </property>
-      <property lemma="location" pid="p6">
+      <property pid="p6" lemma="Location">
         <references>
-          <!--located-->
           <span>
-            <target id="t14"/>
-          </span>
-          <!--near-->
-          <span>
-            <target id="t15"/>
+            <target id="t37"/>
           </span>
         </references>
       </property>
-      <property lemma="breakfast" pid="p7">
+      <property pid="p7" lemma="Breakfast">
         <references>
-          <!--breakfast-->
+          <span>
+            <target id="t80"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p8" lemma="Value-for-money">
+        <references>
+          <span>
+            <target id="t121"/>
+            <target id="t122"/>
+            <target id="t123"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p9" lemma="Interior/exterior">
+        <references>
+          <span>
+            <target id="t97"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p10" lemma="Rooms">
+        <references>
+          <span>
+            <target id="t83"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p11" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t88"/>
+            <target id="t89"/>
+            <target id="t90"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p12" lemma="Value-for-money">
+        <references>
+          <span>
+            <target id="t126"/>
+            <target id="t127"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p13" lemma="Breakfast">
+        <references>
           <span>
             <target id="t74"/>
           </span>
-          <!--juices-->
+        </references>
+      </property>
+      <property pid="p14" lemma="Location">
+        <references>
+          <span>
+            <target id="t112"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p15" lemma="Breakfast">
+        <references>
           <span>
             <target id="t77"/>
-          </span>
-          <!--croissants-->
-          <span>
-            <target id="t80"/>
           </span>
         </references>
       </property>

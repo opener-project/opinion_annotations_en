@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:51:24+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:51CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -566,39 +569,39 @@
   </entities>
   <features>
     <properties>
-      <property lemma="cleanliness" pid="p1">
+      <property pid="p0" lemma="Interior/exterior">
         <references>
-          <!--clean-->
           <span>
-            <target id="t44"/>
+            <target id="t34"/>
           </span>
         </references>
       </property>
-      <property lemma="restaurant" pid="p2">
+      <property pid="p1" lemma="Rooms">
         <references>
-          <!--food-->
-          <span>
-            <target id="t28"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="room" pid="p3">
-        <references>
-          <!--rooms-->
           <span>
             <target id="t41"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p4">
+      <property pid="p2" lemma="Cleanliness">
         <references>
-          <!--staff-->
+          <span>
+            <target id="t43"/>
+            <target id="t44"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p3" lemma="Restaurant">
+        <references>
+          <span>
+            <target id="t28"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p4" lemma="Staff">
+        <references>
           <span>
             <target id="t13"/>
-          </span>
-          <!--friendly-->
-          <span>
-            <target id="t23"/>
           </span>
         </references>
       </property>

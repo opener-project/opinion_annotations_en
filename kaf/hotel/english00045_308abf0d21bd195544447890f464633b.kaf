@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:28:41+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:51CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1171,55 +1174,68 @@
   </entities>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Facilities">
         <references>
-          <!--pay-->
           <span>
-            <target id="t88"/>
+            <target id="t69"/>
+            <target id="t70"/>
           </span>
         </references>
       </property>
-      <property lemma="restaurant" pid="p2">
+      <property pid="p1" lemma="Rooms">
         <references>
-          <!--meal-->
-          <span>
-            <target id="t56"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="sleeping_comfort" pid="p3">
-        <references>
-          <!--bed-->
           <span>
             <target id="t28"/>
           </span>
         </references>
       </property>
-      <property lemma="internet" pid="p4">
+      <property pid="p2" lemma="Internet">
         <references>
-          <!--internet-->
           <span>
             <target id="t92"/>
           </span>
         </references>
       </property>
-      <property lemma="breakfast" pid="p5">
+      <property pid="p3" lemma="Facilities">
         <references>
-          <!--coffee-->
           <span>
-            <target id="t64"/>
+            <target id="t81"/>
+            <target id="t82"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p6">
+      <property pid="p4" lemma="Beds">
         <references>
-          <!--staff-->
           <span>
-            <target id="t10"/>
+            <target id="t25"/>
           </span>
-          <!--service-->
+        </references>
+      </property>
+      <property pid="p5" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t42"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p6" lemma="Staff">
+        <references>
           <span>
             <target id="t112"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p7" lemma="Staff">
+        <references>
+          <span>
+            <target id="t110"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p8" lemma="Staff">
+        <references>
+          <span>
+            <target id="t10"/>
           </span>
         </references>
       </property>

@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:35:26+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:51CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -785,47 +788,53 @@
   </deps>
   <features>
     <properties>
-      <property lemma="cleanliness" pid="p1">
+      <property pid="p0" lemma="Cleanliness">
         <references>
-          <!--smelly-->
-          <span>
-            <target id="t33"/>
-          </span>
-          <!--smelly-->
           <span>
             <target id="t57"/>
           </span>
         </references>
       </property>
-      <property lemma="facilities" pid="p2">
+      <property pid="p1" lemma="Cleanliness">
         <references>
-          <!--fridge-->
           <span>
-            <target id="t70"/>
+            <target id="t33"/>
           </span>
         </references>
       </property>
-      <property lemma="bathroom" pid="p3">
+      <property pid="p2" lemma="Rooms">
         <references>
-          <!--shower-->
-          <span>
-            <target id="t63"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="room" pid="p4">
-        <references>
-          <!--Rooms-->
           <span>
             <target id="t53"/>
           </span>
         </references>
       </property>
-      <property lemma="location" pid="p5">
+      <property pid="p3" lemma="Facilities">
         <references>
-          <!--place-->
           <span>
-            <target id="t83"/>
+            <target id="t70"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p4" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t35"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p5" lemma="Bathroom">
+        <references>
+          <span>
+            <target id="t62"/>
+            <target id="t63"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p6" lemma="Interior/exterior">
+        <references>
+          <span>
+            <target id="t16"/>
           </span>
         </references>
       </property>

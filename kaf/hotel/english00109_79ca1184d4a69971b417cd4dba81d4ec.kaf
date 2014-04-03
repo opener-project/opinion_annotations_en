@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:58:34+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:52CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1427,69 +1430,31 @@
   </entities>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Reservation/check-in/check-out">
         <references>
-          <!--Cheap-->
           <span>
-            <target id="t1"/>
+            <target id="t127"/>
+            <target id="t128"/>
+            <target id="t129"/>
           </span>
         </references>
       </property>
-      <property lemma="bathroom" pid="p2">
+      <property pid="p1" lemma="Rooms">
         <references>
-          <!--bathroom-->
-          <span>
-            <target id="t79"/>
-          </span>
-          <!--toilet-->
-          <span>
-            <target id="t83"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="room" pid="p3">
-        <references>
-          <!--room-->
           <span>
             <target id="t71"/>
           </span>
-          <!--room-->
+        </references>
+      </property>
+      <property pid="p2" lemma="Bathroom">
+        <references>
           <span>
-            <target id="t91"/>
-          </span>
-          <!--sleep-->
-          <span>
-            <target id="t101"/>
-          </span>
-          <!--room-->
-          <span>
-            <target id="t137"/>
+            <target id="t79"/>
           </span>
         </references>
       </property>
-      <property lemma="sleeping_comfort" pid="p4">
+      <property pid="p3" lemma="Staff">
         <references>
-          <!--bed-->
-          <span>
-            <target id="t117"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="location" pid="p5">
-        <references>
-          <!--placed-->
-          <span>
-            <target id="t88"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="staff" pid="p6">
-        <references>
-          <!--checking-->
-          <span>
-            <target id="t26"/>
-          </span>
-          <!--reception-->
           <span>
             <target id="t147"/>
           </span>

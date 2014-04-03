@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:17:31+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:51CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1120,55 +1123,67 @@
   </entities>
   <features>
     <properties>
-      <property lemma="cleanliness" pid="p1">
+      <property pid="p0" lemma="Restaurant">
         <references>
-          <!--smell-->
           <span>
-            <target id="t113"/>
+            <target id="t38"/>
           </span>
         </references>
       </property>
-      <property lemma="value_for_money" pid="p2">
+      <property pid="p1" lemma="Location">
         <references>
-          <!--pay-->
-          <span>
-            <target id="t15"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="staff" pid="p3">
-        <references>
-          <!--staff-->
-          <span>
-            <target id="t47"/>
-          </span>
-          <!--friendly-->
-          <span>
-            <target id="t50"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="location" pid="p4">
-        <references>
-          <!--location-->
           <span>
             <target id="t80"/>
           </span>
-          <!--center-->
+        </references>
+      </property>
+      <property pid="p2" lemma="Interior/exterior">
+        <references>
           <span>
-            <target id="t102"/>
-          </span>
-          <!--area-->
-          <span>
+            <target id="t116"/>
             <target id="t117"/>
           </span>
         </references>
       </property>
-      <property lemma="restaurant" pid="p5">
+      <property pid="p3" lemma="Cleanliness">
         <references>
-          <!--restaurant-->
           <span>
-            <target id="t38"/>
+            <target id="t112"/>
+            <target id="t113"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p4" lemma="Location">
+        <references>
+          <span>
+            <target id="t93"/>
+            <target id="t94"/>
+            <target id="t95"/>
+            <target id="t96"/>
+            <target id="t97"/>
+            <target id="t98"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p5" lemma="Location">
+        <references>
+          <span>
+            <target id="t101"/>
+            <target id="t102"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p6" lemma="Staff">
+        <references>
+          <span>
+            <target id="t47"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p7" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t76"/>
           </span>
         </references>
       </property>

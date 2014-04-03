@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:14:18+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:33CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:48CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:33CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1289,63 +1292,17 @@
   </entities>
   <features>
     <properties>
-      <property lemma="facilities" pid="p1">
+      <property pid="p0" lemma="Facilities">
         <references>
-          <!--trip-->
           <span>
-            <target id="t20"/>
-          </span>
-          <!--taxi-->
-          <span>
-            <target id="t101"/>
+            <target id="t3"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p2">
+      <property pid="p1" lemma="Location">
         <references>
-          <!--help-->
-          <span>
-            <target id="t83"/>
-          </span>
-          <!--helpful-->
-          <span>
-            <target id="t110"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="room" pid="p3">
-        <references>
-          <!--sleep-->
-          <span>
-            <target id="t122"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="location" pid="p4">
-        <references>
-          <!--area-->
           <span>
             <target id="t9"/>
-          </span>
-          <!--bus-->
-          <span>
-            <target id="t19"/>
-          </span>
-          <!--place-->
-          <span>
-            <target id="t120"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="value_for_money" pid="p5">
-        <references>
-          <!--money-->
-          <span>
-            <target id="t64"/>
-          </span>
-          <!--money-->
-          <span>
-            <target id="t92"/>
           </span>
         </references>
       </property>

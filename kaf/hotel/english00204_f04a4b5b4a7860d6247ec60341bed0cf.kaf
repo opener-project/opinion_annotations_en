@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:44:21+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:52CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1036,79 +1039,76 @@
   </entities>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Restaurant">
         <references>
-          <!--cheap-->
           <span>
-            <target id="t2"/>
+            <target id="t78"/>
           </span>
-          <!--cheap-->
+        </references>
+      </property>
+      <property pid="p1" lemma="Value-for-money">
+        <references>
           <span>
+            <target id="t10"/>
             <target id="t11"/>
           </span>
         </references>
       </property>
-      <property lemma="noise" pid="p2">
+      <property pid="p2" lemma="Noisiness">
         <references>
-          <!--quiet-->
           <span>
             <target id="t21"/>
           </span>
         </references>
       </property>
-      <property lemma="room" pid="p3">
+      <property pid="p3" lemma="Internet">
         <references>
-          <!--sleep-->
-          <span>
-            <target id="t26"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="restaurant" pid="p4">
-        <references>
-          <!--restaurant-->
-          <span>
-            <target id="t78"/>
-          </span>
-          <!--food-->
-          <span>
-            <target id="t82"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="location" pid="p5">
-        <references>
-          <!--place-->
-          <span>
-            <target id="t22"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="internet" pid="p6">
-        <references>
-          <!--internet-->
           <span>
             <target id="t29"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p7">
+      <property pid="p4" lemma="Breakfast">
         <references>
-          <!--served-->
           <span>
-            <target id="t89"/>
+            <target id="t86"/>
           </span>
-          <!--Receptionists-->
+        </references>
+      </property>
+      <property pid="p5" lemma="Staff">
+        <references>
           <span>
             <target id="t97"/>
           </span>
-          <!--helpful-->
+        </references>
+      </property>
+      <property pid="p6" lemma="Breakfast">
+        <references>
           <span>
-            <target id="t100"/>
+            <target id="t84"/>
           </span>
-          <!--helping-->
+        </references>
+      </property>
+      <property pid="p7" lemma="Restaurant">
+        <references>
           <span>
-            <target id="t103"/>
+            <target id="t82"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p8" lemma="Value-for-money">
+        <references>
+          <span>
+            <target id="t2"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p9" lemma="Location">
+        <references>
+          <span>
+            <target id="t15"/>
+            <target id="t16"/>
+            <target id="t17"/>
           </span>
         </references>
       </property>

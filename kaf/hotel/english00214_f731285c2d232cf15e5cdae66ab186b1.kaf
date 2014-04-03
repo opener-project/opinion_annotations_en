@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:48:43+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:52CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1212,71 +1215,47 @@
   </deps>
   <features>
     <properties>
-      <property lemma="bathroom" pid="p1">
+      <property pid="p0" lemma="Rooms">
         <references>
-          <!--towels-->
           <span>
-            <target id="t51"/>
+            <target id="t16"/>
           </span>
         </references>
       </property>
-      <property lemma="room" pid="p2">
+      <property pid="p1" lemma="Cleanliness">
         <references>
-          <!--room-->
-          <span>
-            <target id="t37"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="restaurant" pid="p3">
-        <references>
-          <!--drinks-->
-          <span>
-            <target id="t26"/>
-          </span>
-          <!--bar-->
-          <span>
-            <target id="t89"/>
-          </span>
-          <!--waiter-->
-          <span>
-            <target id="t104"/>
-          </span>
-          <!--waiters-->
-          <span>
-            <target id="t116"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="cleanliness" pid="p4">
-        <references>
-          <!--cleaned-->
           <span>
             <target id="t18"/>
+            <target id="t19"/>
+            <target id="t20"/>
+            <target id="t21"/>
+            <target id="t22"/>
+            <target id="t23"/>
           </span>
         </references>
       </property>
-      <property lemma="facilities" pid="p5">
+      <property pid="p2" lemma="Facilities">
         <references>
-          <!--animal-->
           <span>
-            <target id="t47"/>
+            <target id="t25"/>
+            <target id="t26"/>
           </span>
         </references>
       </property>
-      <property lemma="breakfast" pid="p6">
+      <property pid="p3" lemma="Staff">
         <references>
-          <!--cake-->
           <span>
-            <target id="t45"/>
+            <target id="t103"/>
+            <target id="t104"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p7">
+      <property pid="p4" lemma="Facilities">
         <references>
-          <!--serve-->
           <span>
-            <target id="t108"/>
+            <target id="t87"/>
+            <target id="t88"/>
+            <target id="t89"/>
           </span>
         </references>
       </property>

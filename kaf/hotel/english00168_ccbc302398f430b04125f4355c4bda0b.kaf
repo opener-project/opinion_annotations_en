@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:27:06+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:51CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -834,59 +837,47 @@
   </deps>
   <features>
     <properties>
-      <property lemma="room" pid="p1">
+      <property pid="p0" lemma="Rooms">
         <references>
-          <!--room-->
-          <span>
-            <target id="t12"/>
-          </span>
-          <!--room-->
-          <span>
-            <target id="t34"/>
-          </span>
-          <!--room-->
           <span>
             <target id="t54"/>
           </span>
         </references>
       </property>
-      <property lemma="restaurant" pid="p2">
+      <property pid="p1" lemma="Breakfast">
         <references>
-          <!--food-->
           <span>
-            <target id="t88"/>
+            <target id="t70"/>
           </span>
         </references>
       </property>
-      <property lemma="cleanliness" pid="p3">
+      <property pid="p2" lemma="Cleanliness">
         <references>
-          <!--clean-->
           <span>
             <target id="t57"/>
           </span>
         </references>
       </property>
-      <property lemma="sleeping_comfort" pid="p4">
+      <property pid="p3" lemma="Restaurant">
         <references>
-          <!--comfortable-->
           <span>
-            <target id="t58"/>
+            <target id="t88"/>
           </span>
         </references>
       </property>
-      <property lemma="location" pid="p5">
+      <property pid="p4" lemma="Rooms">
         <references>
-          <!--right-->
           <span>
-            <target id="t80"/>
+            <target id="t27"/>
+            <target id="t28"/>
           </span>
         </references>
       </property>
-      <property lemma="breakfast" pid="p6">
+      <property pid="p5" lemma="Rooms">
         <references>
-          <!--breakfast-->
           <span>
-            <target id="t70"/>
+            <target id="t33"/>
+            <target id="t34"/>
           </span>
         </references>
       </property>

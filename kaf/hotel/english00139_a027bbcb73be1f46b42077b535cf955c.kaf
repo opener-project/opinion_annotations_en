@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:13:17+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:33CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:48CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:33CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1206,81 +1209,88 @@
   </deps>
   <features>
     <properties>
-      <property lemma="value_for_money" pid="p1">
+      <property pid="p0" lemma="Swimming pool">
         <references>
-          <!--Free-->
-          <span>
-            <target id="t98"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="room" pid="p2">
-        <references>
-          <!--room-->
-          <span>
-            <target id="t17"/>
-          </span>
-          <!--room-->
-          <span>
-            <target id="t41"/>
-          </span>
-          <!--spacious-->
-          <span>
-            <target id="t76"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="swimming_pool" pid="p3">
-        <references>
-          <!--pool-->
           <span>
             <target id="t77"/>
+            <target id="t78"/>
           </span>
         </references>
       </property>
-      <property lemma="cleanliness" pid="p4">
+      <property pid="p1" lemma="Rooms">
         <references>
-          <!--clean-->
           <span>
-            <target id="t20"/>
+            <target id="t62"/>
           </span>
         </references>
       </property>
-      <property lemma="facilities" pid="p5">
+      <property pid="p2" lemma="Rooms">
         <references>
-          <!--balcony-->
           <span>
             <target id="t68"/>
           </span>
-          <!--sauna-->
-          <span>
-            <target id="t80"/>
-          </span>
         </references>
       </property>
-      <property lemma="location" pid="p6">
+      <property pid="p3" lemma="Internet">
         <references>
-          <!--area-->
-          <span>
-            <target id="t78"/>
-          </span>
-          <!--center-->
-          <span>
-            <target id="t112"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="internet" pid="p7">
-        <references>
-          <!--wifi-->
           <span>
             <target id="t99"/>
           </span>
         </references>
       </property>
-      <property lemma="staff" pid="p8">
+      <property pid="p4" lemma="Facilities">
         <references>
-          <!--service-->
+          <span>
+            <target id="t82"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p5" lemma="Location">
+        <references>
+          <span>
+            <target id="t106"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p6" lemma="Internet">
+        <references>
+          <span>
+            <target id="t104"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p7" lemma="Facilities">
+        <references>
+          <span>
+            <target id="t80"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p8" lemma="Cleanliness">
+        <references>
+          <span>
+            <target id="t19"/>
+            <target id="t20"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p9" lemma="Location">
+        <references>
+          <span>
+            <target id="t111"/>
+            <target id="t112"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p10" lemma="Rooms">
+        <references>
+          <span>
+            <target id="t17"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p11" lemma="Staff">
+        <references>
           <span>
             <target id="t125"/>
           </span>

@@ -18,8 +18,11 @@
     <linguisticProcessors layer="deps">
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:06:25+0100" version="1.0"/>
     </linguisticProcessors>
+    <linguisticProcessors layer="features">
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+    </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:50CET"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -472,35 +475,33 @@
   </deps>
   <features>
     <properties>
-      <property lemma="cleanliness" pid="p1">
+      <property pid="p0" lemma="Rooms">
         <references>
-          <!--clean-->
           <span>
-            <target id="t21"/>
+            <target id="t10"/>
+            <target id="t11"/>
           </span>
         </references>
       </property>
-      <property lemma="bathroom" pid="p2">
+      <property pid="p1" lemma="Restaurant">
         <references>
-          <!--bathrooms-->
+          <span>
+            <target id="t24"/>
+          </span>
+        </references>
+      </property>
+      <property pid="p2" lemma="Bathroom">
+        <references>
           <span>
             <target id="t16"/>
           </span>
         </references>
       </property>
-      <property lemma="room" pid="p3">
+      <property pid="p3" lemma="Cleanliness">
         <references>
-          <!--rooms-->
           <span>
-            <target id="t11"/>
-          </span>
-        </references>
-      </property>
-      <property lemma="restaurant" pid="p4">
-        <references>
-          <!--food-->
-          <span>
-            <target id="t24"/>
+            <target id="t20"/>
+            <target id="t21"/>
           </span>
         </references>
       </property>
