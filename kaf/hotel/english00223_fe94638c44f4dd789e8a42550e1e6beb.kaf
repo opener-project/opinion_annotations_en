@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:52:39+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:49CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:49CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1699,7 +1699,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="12_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=12-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Negative">
@@ -1713,7 +1714,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="12_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=12-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Negative">
@@ -1726,7 +1728,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="21_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=21-->
       <opinion_holder/>
       <opinion_target>
         <!--The location-->
@@ -1745,7 +1748,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="17_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=17-->
       <opinion_holder/>
       <opinion_target>
         <!--bed-->
@@ -1760,7 +1764,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="31_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=31-->
       <opinion_holder/>
       <opinion_target>
         <!--the state of the flat-->
@@ -1781,7 +1786,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="28_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=28-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Negative">
@@ -1791,7 +1797,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--the money paid-->
@@ -1809,7 +1816,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--toilet-->
@@ -1824,7 +1832,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="14_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=14-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Negative">

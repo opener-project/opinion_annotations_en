@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:24:11+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:49CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:49CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2820,7 +2820,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="24_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=24-->
       <opinion_holder/>
       <opinion_target>
         <!--rooms-->
@@ -2837,7 +2838,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="24_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=24-->
       <opinion_holder/>
       <opinion_target>
         <!--rooms-->
@@ -2852,7 +2854,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="24_2">
+    <opinion oid="o2">
+      <!--Tag opinion scope id=24-->
       <opinion_holder/>
       <opinion_target>
         <!--rooms-->
@@ -2867,7 +2870,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="21_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=21-->
       <opinion_holder/>
       <opinion_target>
         <!--Quality-->
@@ -2882,7 +2886,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="17_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=17-->
       <opinion_holder/>
       <opinion_target>
         <!--parking for all hotel and inn customers-->
@@ -2903,7 +2908,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="55_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=55-->
       <opinion_holder/>
       <opinion_target>
         <!--discount to customers of the Hallmark Inn-->
@@ -2924,7 +2930,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="31_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=31-->
       <opinion_holder/>
       <opinion_target>
         <!--the ration between costs and quality-->
@@ -2945,7 +2952,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="56_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=56-->
       <opinion_holder/>
       <opinion_target>
         <!--two options-->
@@ -2962,7 +2970,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="56_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=56-->
       <opinion_holder/>
       <opinion_target>
         <!--restaurant-->
@@ -2978,7 +2987,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="56_2">
+    <opinion oid="o2">
+      <!--Tag opinion scope id=56-->
       <opinion_holder/>
       <opinion_target>
         <!--the Hallmark hotel restaurant-->
@@ -2997,7 +3007,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="42_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=42-->
       <opinion_holder/>
       <opinion_target>
         <!--The hotel-->
@@ -3018,7 +3029,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="35_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=35-->
       <opinion_holder/>
       <opinion_target>
         <!--internet connection-->
@@ -3035,7 +3047,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="35_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=35-->
       <opinion_holder/>
       <opinion_target>
         <!--internet connection-->
@@ -3051,7 +3064,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--quality for price-->
@@ -3068,7 +3082,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--position-->
@@ -3091,7 +3106,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--position-->

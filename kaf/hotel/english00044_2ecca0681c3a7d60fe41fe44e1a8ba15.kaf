@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:28:10+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:49CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:49CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2765,7 +2765,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="26_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=26-->
       <opinion_holder/>
       <opinion_target>
         <!--the food-->
@@ -2782,7 +2783,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="15_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
         <!--the atmosphere-->
@@ -2798,7 +2800,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="46_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=46-->
       <opinion_holder/>
       <opinion_target>
         <!--animation team-->
@@ -2816,7 +2819,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="46_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=46-->
       <opinion_holder/>
       <opinion_target>
         <!--animation team-->
@@ -2836,7 +2840,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="55_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=55-->
       <opinion_holder>
         <!--we-->
         <span>
@@ -2857,7 +2862,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="63_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=63-->
       <opinion_holder/>
       <opinion_target>
         <!--music-->
@@ -2872,7 +2878,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
         <!--room-->
@@ -2887,7 +2894,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="31_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=31-->
       <opinion_holder/>
       <opinion_target>
         <!--The waiters-->
@@ -2904,7 +2912,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="31_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=31-->
       <opinion_holder/>
       <opinion_target>
         <!--The waiters-->
@@ -2922,7 +2931,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="31_2">
+    <opinion oid="o2">
+      <!--Tag opinion scope id=31-->
       <opinion_holder/>
       <opinion_target>
         <!--The waiters-->
@@ -2938,7 +2948,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="40_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=40-->
       <opinion_holder/>
       <opinion_target>
         <!--aerobic.They-->
@@ -2953,7 +2964,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="40_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=40-->
       <opinion_holder/>
       <opinion_target>
         <!--aerobic.They-->
@@ -2968,7 +2980,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="40_2">
+    <opinion oid="o2">
+      <!--Tag opinion scope id=40-->
       <opinion_holder/>
       <opinion_target>
         <!--aerobic.They-->
@@ -2984,7 +2997,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="61_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=61-->
       <opinion_holder/>
       <opinion_target>
         <!--architecture-->
@@ -2999,7 +3013,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="62_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=62-->
       <opinion_holder/>
       <opinion_target>
         <!--gardens-->
@@ -3014,7 +3029,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--place-->
@@ -3029,7 +3045,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--place-->
@@ -3044,7 +3061,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--Sunrise Mamlouk-->

@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:59:28+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:54CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:54CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2565,7 +2565,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="24_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=24-->
       <opinion_holder/>
       <opinion_target>
         <!--Food-->
@@ -2581,7 +2582,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="10_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=10-->
       <opinion_holder/>
       <opinion_target>
         <!--Food-->
@@ -2597,7 +2599,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="33_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=33-->
       <opinion_holder/>
       <opinion_target>
         <!--The beach-->
@@ -2613,7 +2616,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="33_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=33-->
       <opinion_holder/>
       <opinion_target>
         <!--The beach-->
@@ -2630,7 +2634,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="33_2">
+    <opinion oid="o2">
+      <!--Tag opinion scope id=33-->
       <opinion_holder/>
       <opinion_target>
         <!--The beach-->
@@ -2653,7 +2658,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="18_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=18-->
       <opinion_holder/>
       <opinion_target>
         <!--5 restaurants-->
@@ -2670,7 +2676,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="44_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=44-->
       <opinion_holder/>
       <opinion_target>
         <!--they-->
@@ -2686,7 +2693,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="28_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=28-->
       <opinion_holder/>
       <opinion_target>
         <!--Staff-->
@@ -2701,7 +2709,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="28_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=28-->
       <opinion_holder/>
       <opinion_target>
         <!--Staff-->
@@ -2716,7 +2725,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="43_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=43-->
       <opinion_holder/>
       <opinion_target>
         <!--choice-->
@@ -2732,7 +2742,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Positive">
@@ -2743,7 +2754,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="4_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
         <!--Our room-->
@@ -2760,7 +2772,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="4_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=4-->
       <opinion_holder/>
       <opinion_target>
         <!--the whole hotel-->

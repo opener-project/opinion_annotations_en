@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:33:03+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:55CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:36CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:55CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2554,7 +2554,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="10_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=10-->
       <opinion_holder/>
       <opinion_target>
         <!--location-->
@@ -2569,7 +2570,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="26_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=26-->
       <opinion_holder/>
       <opinion_target>
         <!--the car park-->
@@ -2588,7 +2590,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="38_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=38-->
       <opinion_holder/>
       <opinion_target>
         <!--it-->
@@ -2607,7 +2610,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="21_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=21-->
       <opinion_holder/>
       <opinion_target>
         <!--staff-->
@@ -2623,7 +2627,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="21_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=21-->
       <opinion_holder/>
       <opinion_target>
         <!--staff-->
@@ -2638,7 +2643,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="16_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=16-->
       <opinion_holder/>
       <opinion_target>
         <!--dogs-->
@@ -2653,7 +2659,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="63_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=63-->
       <opinion_holder>
         <!--I-->
         <span>
@@ -2681,7 +2688,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="30_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=30-->
       <opinion_holder/>
       <opinion_target>
         <!--the breakfast times-->
@@ -2698,7 +2706,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="42_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=42-->
       <opinion_holder>
         <!--We-->
         <span>
@@ -2720,7 +2729,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="42_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=42-->
       <opinion_holder>
         <!--We-->
         <span>
@@ -2744,7 +2754,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="53_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=53-->
       <opinion_holder/>
       <opinion_target>
         <!--management-->
@@ -2759,7 +2770,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="53_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=53-->
       <opinion_holder/>
       <opinion_target>
         <!--team-->
@@ -2774,7 +2786,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="53_2">
+    <opinion oid="o2">
+      <!--Tag opinion scope id=53-->
       <opinion_holder/>
       <opinion_target>
         <!--staff-->
@@ -2789,7 +2802,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--place-->
@@ -2804,7 +2818,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="64_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=64-->
       <opinion_holder/>
       <opinion_target>
         <!--staff-->
@@ -2819,7 +2834,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="64_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=64-->
       <opinion_holder/>
       <opinion_target>
         <!--staff-->
@@ -2834,7 +2850,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="49_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=49-->
       <opinion_holder/>
       <opinion_target>
         <!--parking of the scootmobile-->

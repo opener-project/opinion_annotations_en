@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:53:21+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:51CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:51CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1939,7 +1939,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="24_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=24-->
       <opinion_holder/>
       <opinion_target>
         <!--the whole think-->
@@ -1959,7 +1960,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="27_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=27-->
       <opinion_holder/>
       <opinion_target>
         <!--the staff-->
@@ -1979,7 +1981,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="15_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
         <!--The bath-->
@@ -1996,7 +1999,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="19_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=19-->
       <opinion_holder/>
       <opinion_target>
         <!--Matress-->
@@ -2012,7 +2016,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="19_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=19-->
       <opinion_holder/>
       <opinion_target>
         <!--Matress-->
@@ -2027,7 +2032,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--the window-->
@@ -2043,7 +2049,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--the window-->
@@ -2061,7 +2068,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_2">
+    <opinion oid="o2">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--the window-->
@@ -2079,7 +2087,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="9_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=9-->
       <opinion_holder/>
       <opinion_target>
         <!--the rooms on the street side-->

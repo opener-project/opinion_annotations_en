@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:42:02+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:49CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:49CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2573,7 +2573,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="12_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=12-->
       <opinion_holder/>
       <opinion_target>
         <!--Holiday-->
@@ -2588,7 +2589,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="19_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=19-->
       <opinion_holder>
         <!--We-->
         <span>
@@ -2610,7 +2612,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="47_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=47-->
       <opinion_holder/>
       <opinion_target>
         <!--the meals-->
@@ -2632,7 +2635,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="44_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=44-->
       <opinion_holder/>
       <opinion_target>
         <!--the air conditioning-->
@@ -2650,7 +2654,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="45_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=45-->
       <opinion_holder>
         <!--we-->
         <span>
@@ -2673,7 +2678,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="43_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=43-->
       <opinion_holder>
         <!--we-->
         <span>
@@ -2695,7 +2701,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="34_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=34-->
       <opinion_holder/>
       <opinion_target>
         <!--Sentido-->
@@ -2710,7 +2717,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--The hotel-->
@@ -2726,7 +2734,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--The hotel-->
@@ -2743,7 +2752,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--setting-->
@@ -2759,7 +2769,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="6_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
         <!--setting-->

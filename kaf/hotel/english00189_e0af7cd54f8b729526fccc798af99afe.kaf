@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:37:13+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:51CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:34CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:51CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1434,7 +1434,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="11_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=11-->
       <opinion_holder/>
       <opinion_target/>
       <opinion_expression polarity="Positive">
@@ -1448,7 +1449,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="27_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=27-->
       <opinion_holder/>
       <opinion_target>
         <!--Rooms-->
@@ -1463,7 +1465,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="27_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=27-->
       <opinion_holder/>
       <opinion_target>
         <!--Rooms-->
@@ -1479,7 +1482,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="15_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
         <!--pool areas-->
@@ -1495,7 +1499,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="22_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=22-->
       <opinion_holder/>
       <opinion_target>
         <!--beach area-->
@@ -1511,7 +1516,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="38_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=38-->
       <opinion_holder/>
       <opinion_target>
         <!--Spa area-->
@@ -1527,7 +1533,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="55_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=55-->
       <opinion_holder/>
       <opinion_target>
         <!--gym facilities-->
@@ -1543,7 +1550,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="54_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=54-->
       <opinion_holder/>
       <opinion_target>
         <!--aqua park area-->
@@ -1560,7 +1568,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="28_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=28-->
       <opinion_holder/>
       <opinion_target>
         <!--areas-->
@@ -1576,7 +1585,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="28_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=28-->
       <opinion_holder/>
       <opinion_target>
         <!--areas-->
@@ -1592,7 +1602,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--hotel-->
@@ -1607,7 +1618,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--staff-->
@@ -1622,7 +1634,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="7_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=7-->
       <opinion_holder/>
       <opinion_target>
         <!--facilities-->

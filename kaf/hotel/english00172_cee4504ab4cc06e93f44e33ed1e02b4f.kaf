@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:28:59+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:53CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:35CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:53CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -1820,7 +1820,8 @@
     </tree>
   </constituency>
   <opinions>
-    <opinion oid="59_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=59-->
       <opinion_holder/>
       <opinion_target>
         <!--service-->
@@ -1836,7 +1837,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="14_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=14-->
       <opinion_holder>
         <!--me-->
         <span>
@@ -1858,7 +1860,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="23_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=23-->
       <opinion_holder/>
       <opinion_target>
         <!--air condition-->
@@ -1876,7 +1879,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="23_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=23-->
       <opinion_holder/>
       <opinion_target>
         <!--Tele-->
@@ -1893,7 +1897,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="19_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=19-->
       <opinion_holder/>
       <opinion_target>
         <!--Service desk-->
@@ -1909,7 +1914,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="37_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=37-->
       <opinion_holder/>
       <opinion_target>
         <!--Breakfast-->
@@ -1924,7 +1930,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="29_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=29-->
       <opinion_holder/>
       <opinion_target>
         <!--fridge in 1 of the rooms-->
@@ -1944,7 +1951,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="60_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=60-->
       <opinion_holder/>
       <opinion_target>
         <!--chairs / tables-->
@@ -1961,7 +1969,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="33_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=33-->
       <opinion_holder/>
       <opinion_target>
         <!--the elevator-->
@@ -1977,7 +1986,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="62_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=62-->
       <opinion_holder/>
       <opinion_target>
         <!--tea / coffee-->
@@ -1994,7 +2004,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--quality-->
@@ -2009,7 +2020,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="2_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>
         <!--quality-->
@@ -2025,7 +2037,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="7_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=7-->
       <opinion_holder/>
       <opinion_target>
         <!--Location-->
@@ -2040,7 +2053,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="61_0">
+    <opinion oid="o0">
+      <!--Tag opinion scope id=61-->
       <opinion_holder/>
       <opinion_target>
         <!--food-->
@@ -2056,7 +2070,8 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="61_1">
+    <opinion oid="o1">
+      <!--Tag opinion scope id=61-->
       <opinion_holder/>
       <opinion_target>
         <!--food-->
