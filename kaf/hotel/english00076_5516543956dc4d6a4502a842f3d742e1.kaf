@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T16:43:03+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:48CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:20:42CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:48CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:20:42CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2647,53 +2647,6 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
-      <!--Tag opinion scope id=22-->
-      <opinion_holder>
-        <!--We-->
-        <span>
-          <target id="t40"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--check · out procedures-->
-        <span>
-          <target id="t49"/>
-          <target id="t50"/>
-          <target id="t51"/>
-          <target id="t52"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--fast-->
-        <span>
-          <target id="t42"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o1">
-      <!--Tag opinion scope id=22-->
-      <opinion_holder>
-        <!--We-->
-        <span>
-          <target id="t40"/>
-        </span>
-      </opinion_holder>
-      <opinion_target>
-        <!--check · in-->
-        <span>
-          <target id="t45"/>
-          <target id="t46"/>
-          <target id="t47"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--fast-->
-        <span>
-          <target id="t42"/>
-        </span>
-      </opinion_expression>
-    </opinion>
     <opinion oid="o2">
       <!--Tag opinion scope id=22-->
       <opinion_holder>
@@ -2712,9 +2665,9 @@
         </span>
       </opinion_target>
       <opinion_expression polarity="Positive">
-        <!--enjoyed-->
+        <!--fast-->
         <span>
-          <target id="t41"/>
+          <target id="t42"/>
         </span>
       </opinion_expression>
     </opinion>
@@ -2735,9 +2688,9 @@
         </span>
       </opinion_target>
       <opinion_expression polarity="Positive">
-        <!--enjoyed-->
+        <!--fast-->
         <span>
-          <target id="t41"/>
+          <target id="t42"/>
         </span>
       </opinion_expression>
     </opinion>
@@ -2759,13 +2712,60 @@
         </span>
       </opinion_target>
       <opinion_expression polarity="Positive">
+        <!--enjoyed-->
+        <span>
+          <target id="t41"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
+      <!--Tag opinion scope id=22-->
+      <opinion_holder>
+        <!--We-->
+        <span>
+          <target id="t40"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--check · in-->
+        <span>
+          <target id="t45"/>
+          <target id="t46"/>
+          <target id="t47"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
+        <!--enjoyed-->
+        <span>
+          <target id="t41"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o6">
+      <!--Tag opinion scope id=22-->
+      <opinion_holder>
+        <!--We-->
+        <span>
+          <target id="t40"/>
+        </span>
+      </opinion_holder>
+      <opinion_target>
+        <!--check · out procedures-->
+        <span>
+          <target id="t49"/>
+          <target id="t50"/>
+          <target id="t51"/>
+          <target id="t52"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="Positive">
         <!--smooth-->
         <span>
           <target id="t44"/>
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o5">
+    <opinion oid="o7">
       <!--Tag opinion scope id=22-->
       <opinion_holder>
         <!--We-->
@@ -2788,7 +2788,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o8">
       <!--Tag opinion scope id=32-->
       <opinion_holder/>
       <opinion_target>
@@ -2806,7 +2806,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o9">
       <!--Tag opinion scope id=32-->
       <opinion_holder/>
       <opinion_target>
@@ -2825,7 +2825,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o2">
+    <opinion oid="o10">
       <!--Tag opinion scope id=32-->
       <opinion_holder/>
       <opinion_target>
@@ -2844,7 +2844,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o11">
       <!--Tag opinion scope id=45-->
       <opinion_holder/>
       <opinion_target>
@@ -2860,7 +2860,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o12">
       <!--Tag opinion scope id=77-->
       <opinion_holder/>
       <opinion_target>
@@ -2876,7 +2876,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o13">
       <!--Tag opinion scope id=77-->
       <opinion_holder/>
       <opinion_target>
@@ -2892,7 +2892,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o14">
       <!--Tag opinion scope id=76-->
       <opinion_holder/>
       <opinion_target>
@@ -2909,7 +2909,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o15">
       <!--Tag opinion scope id=75-->
       <opinion_holder/>
       <opinion_target>
@@ -2925,7 +2925,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o16">
       <!--Tag opinion scope id=74-->
       <opinion_holder/>
       <opinion_target>
@@ -2941,7 +2941,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o17">
       <!--Tag opinion scope id=65-->
       <opinion_holder>
         <!--we-->
@@ -2959,7 +2959,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o18">
       <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
@@ -2983,7 +2983,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o19">
       <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
@@ -2999,7 +2999,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o2">
+    <opinion oid="o20">
       <!--Tag opinion scope id=6-->
       <opinion_holder/>
       <opinion_target>
@@ -3020,7 +3020,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o21">
       <!--Tag opinion scope id=2-->
       <opinion_holder/>
       <opinion_target>

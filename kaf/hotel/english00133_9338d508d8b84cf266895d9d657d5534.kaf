@@ -19,10 +19,10 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-02-51T17:10:20+0100" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:53CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:20:46CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:53CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:20:46CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -2643,7 +2643,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o1">
       <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
@@ -2651,24 +2651,6 @@
         <span>
           <target id="t20"/>
           <target id="t21"/>
-        </span>
-      </opinion_target>
-      <opinion_expression polarity="Positive">
-        <!--helpful-->
-        <span>
-          <target id="t26"/>
-        </span>
-      </opinion_expression>
-    </opinion>
-    <opinion oid="o1">
-      <!--Tag opinion scope id=15-->
-      <opinion_holder/>
-      <opinion_target>
-        <!--the executive chef-->
-        <span>
-          <target id="t16"/>
-          <target id="t17"/>
-          <target id="t18"/>
         </span>
       </opinion_target>
       <opinion_expression polarity="Positive">
@@ -2682,17 +2664,17 @@
       <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
-        <!--his team-->
+        <!--the executive chef-->
         <span>
-          <target id="t20"/>
-          <target id="t21"/>
+          <target id="t16"/>
+          <target id="t17"/>
+          <target id="t18"/>
         </span>
       </opinion_target>
-      <opinion_expression polarity="StrongPositive">
-        <!--very friendly-->
+      <opinion_expression polarity="Positive">
+        <!--helpful-->
         <span>
-          <target id="t22"/>
-          <target id="t23"/>
+          <target id="t26"/>
         </span>
       </opinion_expression>
     </opinion>
@@ -2700,11 +2682,10 @@
       <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
-        <!--the executive chef-->
+        <!--his team-->
         <span>
-          <target id="t16"/>
-          <target id="t17"/>
-          <target id="t18"/>
+          <target id="t20"/>
+          <target id="t21"/>
         </span>
       </opinion_target>
       <opinion_expression polarity="StrongPositive">
@@ -2719,6 +2700,25 @@
       <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
+        <!--the executive chef-->
+        <span>
+          <target id="t16"/>
+          <target id="t17"/>
+          <target id="t18"/>
+        </span>
+      </opinion_target>
+      <opinion_expression polarity="StrongPositive">
+        <!--very friendly-->
+        <span>
+          <target id="t22"/>
+          <target id="t23"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
+      <!--Tag opinion scope id=15-->
+      <opinion_holder/>
+      <opinion_target>
         <!--his team-->
         <span>
           <target id="t20"/>
@@ -2737,7 +2737,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o5">
+    <opinion oid="o6">
       <!--Tag opinion scope id=15-->
       <opinion_holder/>
       <opinion_target>
@@ -2760,7 +2760,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o7">
       <!--Tag opinion scope id=58-->
       <opinion_holder/>
       <opinion_target>
@@ -2776,7 +2776,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o8">
       <!--Tag opinion scope id=48-->
       <opinion_holder>
         <!--.we-->
@@ -2796,7 +2796,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o9">
       <!--Tag opinion scope id=31-->
       <opinion_holder/>
       <opinion_target>
@@ -2822,7 +2822,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o10">
       <!--Tag opinion scope id=62-->
       <opinion_holder/>
       <opinion_target>
@@ -2838,7 +2838,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o11">
       <!--Tag opinion scope id=35-->
       <opinion_holder/>
       <opinion_target>
@@ -2856,7 +2856,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o12">
       <!--Tag opinion scope id=35-->
       <opinion_holder/>
       <opinion_target>
@@ -2873,7 +2873,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o13">
       <!--Tag opinion scope id=41-->
       <opinion_holder/>
       <opinion_target>
@@ -2896,7 +2896,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o14">
       <!--Tag opinion scope id=41-->
       <opinion_holder/>
       <opinion_target>
@@ -2919,7 +2919,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o15">
       <!--Tag opinion scope id=3-->
       <opinion_holder/>
       <opinion_target>
@@ -2936,7 +2936,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o1">
+    <opinion oid="o16">
       <!--Tag opinion scope id=3-->
       <opinion_holder/>
       <opinion_target>
@@ -2953,7 +2953,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o17">
       <!--Tag opinion scope id=63-->
       <opinion_holder/>
       <opinion_target>
@@ -2969,7 +2969,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o18">
       <!--Tag opinion scope id=64-->
       <opinion_holder/>
       <opinion_target>
@@ -2985,7 +2985,7 @@
         </span>
       </opinion_expression>
     </opinion>
-    <opinion oid="o0">
+    <opinion oid="o19">
       <!--Tag opinion scope id=21-->
       <opinion_holder/>
       <opinion_target>

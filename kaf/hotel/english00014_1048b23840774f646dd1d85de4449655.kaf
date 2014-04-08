@@ -22,9 +22,10 @@
       <lp name="Manual annotations" version="Manual annotations" timestamp="2014-03-25T17:03:48CET"/>
       <lp name="Manual annotations" version="1.0" timestamp="2014-04-03T10:35:32CEST"/>
       <lp name="Manual annotations" version="1.0" timestamp="2014-04-07T17:25:45CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-04-08T16:20:41CEST"/>
     </linguisticProcessors>
     <linguisticProcessors layer="features">
-      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-07T17:25:45CEST"/>
+      <lp name="Property manual annotations" version="1.0" timestamp="2014-04-08T16:20:41CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
