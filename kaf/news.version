@@ -1,0 +1,6 @@
+20140505
+
+Processed by Ruben with the pipeline:
+  + polarity tagger (general domain lexicon, ignoring pos)
+  + constituent parser for English (opener)
+  + dependency parser for English (newsreader + converter KAF->NAF->parser->NAF->KAF)
