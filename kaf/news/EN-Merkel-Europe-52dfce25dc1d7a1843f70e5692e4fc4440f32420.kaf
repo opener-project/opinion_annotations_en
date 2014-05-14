@@ -20,7 +20,7 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-05-127T12:27:39+0200" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-05-07T15:56:22CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-05-14T11:18:12CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -9971,6 +9971,23 @@
         <!--acceptable-->
         <span>
           <target id="t387"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
+      <!--Marked as NON-OPINIONATED in the tag files-->
+      <opinion_expression polarity="NON-OPINIONATED">
+        <span>
+          <target id="t204"/>
+          <target id="t205"/>
+          <target id="t206"/>
+          <target id="t207"/>
+          <target id="t208"/>
+          <target id="t209"/>
+          <target id="t210"/>
+          <target id="t211"/>
+          <target id="t212"/>
+          <target id="t213"/>
         </span>
       </opinion_expression>
     </opinion>

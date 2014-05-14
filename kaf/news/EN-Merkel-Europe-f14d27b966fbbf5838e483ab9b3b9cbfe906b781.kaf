@@ -20,7 +20,7 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-05-127T10:11:03+0200" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-05-07T15:56:41CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-05-14T11:18:29CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -18406,6 +18406,48 @@
         <!--difficult-->
         <span>
           <target id="t629"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o5">
+      <!--Marked as NON-OPINIONATED in the tag files-->
+      <opinion_expression polarity="NON-OPINIONATED">
+        <span>
+          <target id="t516"/>
+          <target id="t517"/>
+          <target id="t518"/>
+          <target id="t519"/>
+          <target id="t520"/>
+          <target id="t521"/>
+          <target id="t522"/>
+          <target id="t523"/>
+          <target id="t524"/>
+          <target id="t525"/>
+          <target id="t526"/>
+          <target id="t527"/>
+          <target id="t528"/>
+          <target id="t529"/>
+          <target id="t530"/>
+          <target id="t531"/>
+          <target id="t532"/>
+          <target id="t533"/>
+          <target id="t534"/>
+          <target id="t535"/>
+          <target id="t536"/>
+          <target id="t537"/>
+          <target id="t538"/>
+          <target id="t539"/>
+          <target id="t540"/>
+          <target id="t541"/>
+          <target id="t542"/>
+          <target id="t543"/>
+          <target id="t544"/>
+          <target id="t545"/>
+          <target id="t546"/>
+          <target id="t547"/>
+          <target id="t548"/>
+          <target id="t549"/>
+          <target id="t550"/>
         </span>
       </opinion_expression>
     </opinion>

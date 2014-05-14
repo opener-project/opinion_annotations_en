@@ -20,7 +20,7 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-05-127T11:57:33+0200" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-05-07T15:56:37CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-05-14T11:18:25CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -14387,4 +14387,56 @@
       <edge id="tre2016" from="ter694" to="nter1322"/>
     </tree>
   </constituency>
+  <opinions>
+    <opinion oid="o0">
+      <!--Marked as NON-OPINIONATED in the tag files-->
+      <opinion_expression polarity="NON-OPINIONATED">
+        <span>
+          <target id="t613"/>
+          <target id="t614"/>
+          <target id="t615"/>
+          <target id="t616"/>
+          <target id="t617"/>
+          <target id="t618"/>
+          <target id="t619"/>
+          <target id="t620"/>
+          <target id="t621"/>
+          <target id="t622"/>
+          <target id="t623"/>
+          <target id="t624"/>
+          <target id="t625"/>
+          <target id="t626"/>
+          <target id="t627"/>
+          <target id="t628"/>
+          <target id="t629"/>
+          <target id="t630"/>
+          <target id="t631"/>
+          <target id="t632"/>
+          <target id="t633"/>
+          <target id="t634"/>
+          <target id="t635"/>
+          <target id="t636"/>
+          <target id="t637"/>
+          <target id="t638"/>
+          <target id="t639"/>
+          <target id="t640"/>
+          <target id="t641"/>
+          <target id="t642"/>
+          <target id="t682"/>
+          <target id="t683"/>
+          <target id="t684"/>
+          <target id="t685"/>
+          <target id="t686"/>
+          <target id="t687"/>
+          <target id="t688"/>
+          <target id="t689"/>
+          <target id="t690"/>
+          <target id="t691"/>
+          <target id="t692"/>
+          <target id="t693"/>
+          <target id="t694"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+  </opinions>
 </KAF>

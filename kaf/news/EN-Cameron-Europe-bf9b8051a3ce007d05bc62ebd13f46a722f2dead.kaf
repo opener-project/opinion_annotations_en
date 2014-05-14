@@ -20,7 +20,7 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-05-127T13:59:22+0200" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-05-07T15:56:22CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-05-14T11:18:13CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -17114,6 +17114,54 @@
           <target id="t346"/>
           <target id="t348"/>
           <target id="t349"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o1">
+      <!--Marked as NON-OPINIONATED in the tag files-->
+      <opinion_expression polarity="NON-OPINIONATED">
+        <span>
+          <target id="t166"/>
+          <target id="t167"/>
+          <target id="t168"/>
+          <target id="t169"/>
+          <target id="t170"/>
+          <target id="t171"/>
+          <target id="t172"/>
+          <target id="t173"/>
+          <target id="t174"/>
+          <target id="t175"/>
+          <target id="t176"/>
+          <target id="t177"/>
+          <target id="t178"/>
+          <target id="t259"/>
+          <target id="t260"/>
+          <target id="t261"/>
+          <target id="t262"/>
+          <target id="t263"/>
+          <target id="t264"/>
+          <target id="t265"/>
+          <target id="t266"/>
+          <target id="t267"/>
+          <target id="t268"/>
+          <target id="t269"/>
+          <target id="t270"/>
+          <target id="t271"/>
+          <target id="t272"/>
+          <target id="t273"/>
+          <target id="t274"/>
+          <target id="t275"/>
+          <target id="t603"/>
+          <target id="t604"/>
+          <target id="t605"/>
+          <target id="t606"/>
+          <target id="t607"/>
+          <target id="t608"/>
+          <target id="t609"/>
+          <target id="t610"/>
+          <target id="t611"/>
+          <target id="t612"/>
+          <target id="t613"/>
         </span>
       </opinion_expression>
     </opinion>

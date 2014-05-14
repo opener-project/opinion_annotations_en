@@ -20,7 +20,7 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-05-127T11:54:35+0200" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-05-07T15:56:01CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-05-14T11:17:52CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -11561,6 +11561,91 @@
           <target id="t201"/>
           <target id="t202"/>
           <target id="t203"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o2">
+      <!--Marked as NON-OPINIONATED in the tag files-->
+      <opinion_expression polarity="NON-OPINIONATED">
+        <span>
+          <target id="t82"/>
+          <target id="t83"/>
+          <target id="t84"/>
+          <target id="t85"/>
+          <target id="t86"/>
+          <target id="t87"/>
+          <target id="t88"/>
+          <target id="t89"/>
+          <target id="t90"/>
+          <target id="t91"/>
+          <target id="t92"/>
+          <target id="t93"/>
+          <target id="t94"/>
+          <target id="t95"/>
+          <target id="t96"/>
+          <target id="t97"/>
+          <target id="t98"/>
+          <target id="t99"/>
+          <target id="t100"/>
+          <target id="t101"/>
+          <target id="t102"/>
+          <target id="t103"/>
+          <target id="t104"/>
+          <target id="t105"/>
+          <target id="t106"/>
+          <target id="t107"/>
+          <target id="t108"/>
+          <target id="t109"/>
+          <target id="t110"/>
+          <target id="t111"/>
+          <target id="t112"/>
+          <target id="t113"/>
+          <target id="t114"/>
+          <target id="t115"/>
+          <target id="t116"/>
+          <target id="t117"/>
+          <target id="t118"/>
+          <target id="t236"/>
+          <target id="t237"/>
+          <target id="t238"/>
+          <target id="t239"/>
+          <target id="t240"/>
+          <target id="t241"/>
+          <target id="t242"/>
+          <target id="t243"/>
+          <target id="t244"/>
+          <target id="t245"/>
+          <target id="t246"/>
+          <target id="t247"/>
+          <target id="t248"/>
+          <target id="t249"/>
+          <target id="t250"/>
+          <target id="t251"/>
+          <target id="t252"/>
+          <target id="t253"/>
+          <target id="t254"/>
+          <target id="t255"/>
+          <target id="t256"/>
+          <target id="t257"/>
+          <target id="t258"/>
+          <target id="t259"/>
+          <target id="t260"/>
+          <target id="t261"/>
+          <target id="t262"/>
+          <target id="t263"/>
+          <target id="t264"/>
+          <target id="t265"/>
+          <target id="t266"/>
+          <target id="t267"/>
+          <target id="t268"/>
+          <target id="t269"/>
+          <target id="t270"/>
+          <target id="t271"/>
+          <target id="t272"/>
+          <target id="t273"/>
+          <target id="t274"/>
+          <target id="t275"/>
+          <target id="t276"/>
         </span>
       </opinion_expression>
     </opinion>

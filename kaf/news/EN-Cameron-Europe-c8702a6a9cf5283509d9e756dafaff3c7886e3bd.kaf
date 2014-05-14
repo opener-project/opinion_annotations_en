@@ -20,7 +20,7 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-05-127T14:27:57+0200" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-05-07T15:56:06CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-05-14T11:17:57CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -24294,6 +24294,84 @@
           <target id="t200"/>
           <target id="t205"/>
           <target id="t206"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+    <opinion oid="o4">
+      <!--Marked as NON-OPINIONATED in the tag files-->
+      <opinion_expression polarity="NON-OPINIONATED">
+        <span>
+          <target id="t753"/>
+          <target id="t754"/>
+          <target id="t755"/>
+          <target id="t756"/>
+          <target id="t757"/>
+          <target id="t758"/>
+          <target id="t759"/>
+          <target id="t760"/>
+          <target id="t761"/>
+          <target id="t762"/>
+          <target id="t763"/>
+          <target id="t764"/>
+          <target id="t766"/>
+          <target id="t767"/>
+          <target id="t768"/>
+          <target id="t769"/>
+          <target id="t770"/>
+          <target id="t771"/>
+          <target id="t772"/>
+          <target id="t773"/>
+          <target id="t774"/>
+          <target id="t775"/>
+          <target id="t776"/>
+          <target id="t777"/>
+          <target id="t778"/>
+          <target id="t779"/>
+          <target id="t780"/>
+          <target id="t781"/>
+          <target id="t782"/>
+          <target id="t783"/>
+          <target id="t784"/>
+          <target id="t785"/>
+          <target id="t786"/>
+          <target id="t787"/>
+          <target id="t788"/>
+          <target id="t789"/>
+          <target id="t790"/>
+          <target id="t791"/>
+          <target id="t792"/>
+          <target id="t793"/>
+          <target id="t794"/>
+          <target id="t795"/>
+          <target id="t796"/>
+          <target id="t798"/>
+          <target id="t799"/>
+          <target id="t800"/>
+          <target id="t801"/>
+          <target id="t802"/>
+          <target id="t803"/>
+          <target id="t804"/>
+          <target id="t805"/>
+          <target id="t806"/>
+          <target id="t807"/>
+          <target id="t808"/>
+          <target id="t809"/>
+          <target id="t810"/>
+          <target id="t811"/>
+          <target id="t812"/>
+          <target id="t813"/>
+          <target id="t814"/>
+          <target id="t815"/>
+          <target id="t816"/>
+          <target id="t817"/>
+          <target id="t818"/>
+          <target id="t819"/>
+          <target id="t820"/>
+          <target id="t821"/>
+          <target id="t822"/>
+          <target id="t823"/>
+          <target id="t824"/>
+          <target id="t825"/>
         </span>
       </opinion_expression>
     </opinion>

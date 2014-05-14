@@ -10,8 +10,6 @@ Processing  EN-Cameron-Europe-8a16c5c1f1909e71ab752fe0f1d2a6bb1e7a0b07
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 13
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-10eb9c7c4e093e38c56d5194401bfedb260e8d1b
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-10eb9c7c4e093e38c56d5194401bfedb260e8d1b.tag
 Processing  EN-Cameron-Europe-ffbdd23e1c0b195c5ee1ff86b8cf35bf1679d8ea
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-ffbdd23e1c0b195c5ee1ff86b8cf35bf1679d8ea.tag opinion id:5
 
@@ -20,12 +18,6 @@ Processing  EN-Cameron-Europe-ffbdd23e1c0b195c5ee1ff86b8cf35bf1679d8ea
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 41
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-8e70f8e372300a7d3aa38848d6fcee2a54e25d4f
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-8e70f8e372300a7d3aa38848d6fcee2a54e25d4f.tag
-Processing  EN-Merkel-Europe-c2f7bc91622be405a2a5d4ad6bee7a5ca794c9cb
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-c2f7bc91622be405a2a5d4ad6bee7a5ca794c9cb.tag
-Processing  EN-Merkel-Europe-b13ef39dd3825c4984db10bb06106e6190019a00
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-b13ef39dd3825c4984db10bb06106e6190019a00.tag
 Processing  EN-Cameron-Europe-8845351c640590a13a044f473cebf447e4220bd4
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
@@ -134,8 +126,6 @@ Processing  EN-Merkel-Europe-9f36dc996f6126505a28d4beb19149dd7319c735
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 23
 	Total of sentences with annotated opinions 0
-Processing  EN-Cameron-Europe-d4d58b0c7a4f3aef2a0792431a1afef53d12161a
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-d4d58b0c7a4f3aef2a0792431a1afef53d12161a.tag
 Processing  EN-Cameron-Europe-79651a846763eb44a2caf08b32ad369ad4f2f487
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -162,8 +152,6 @@ Processing  EN-Merkel-Europe-07202d70dfe14ccdea27593cb76b892911cef924
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 17
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-8c8bbf6eb89ffa2ef82c3369040abf9b07f6da82
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-8c8bbf6eb89ffa2ef82c3369040abf9b07f6da82.tag
 Processing  EN-Merkel-Europe-1fc25402e8da76fb88f60e3adab221a294e0264e
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -206,8 +194,6 @@ Processing  EN-Cameron-Europe-d0d4270862dd41e09c9228c1e1bac3e5079e4dd9
 	Total of opinion triples generated: 3
 	Total of sentences in the tag file 47
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-5941528afaae57d75811462234e6808567559497
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-5941528afaae57d75811462234e6808567559497.tag
 Processing  EN-Merkel-Europe-d00802c35f414dd188121ab3b187b7edd065e40d
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
@@ -244,8 +230,6 @@ Processing  EN-Merkel-Europe-d598b15ff00164c412f9d87bb72a58aab3a6d391
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 12
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-1697c30a4448d39d7c01976617f8b1d626af445a
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-1697c30a4448d39d7c01976617f8b1d626af445a.tag
 Processing  EN-Merkel-Europe-81df748986d190635214a76519f7f0381c41bf3b
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -258,8 +242,6 @@ Processing  EN-Merkel-Europe-1c64426b3184f661d5644d2a9b4f2915597fa980
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 30
 	Total of sentences with annotated opinions 0
-Processing  EN-Cameron-Europe-a4d5d506760101793a0c5e888ecc2c99ffaf09d4
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-a4d5d506760101793a0c5e888ecc2c99ffaf09d4.tag
 Processing  EN-Cameron-Europe-4381150a7a911be76a6a52933c75171271727ed4
 	Total of opinions with different scope in the tag file: 4
 	Total of skipped opinions: 0
@@ -318,16 +300,12 @@ Processing  EN-Merkel-Europe-338758489c73eb24a25510f3741ce615eb953253
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 27
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-f89091e61176228700938e8540a4d65ca59025fc
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-f89091e61176228700938e8540a4d65ca59025fc.tag
 Processing  EN-Merkel-Europe-3a89e50e8986c2eb013e9a9b14a591317d81ad60
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 12
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-1b41321e1d4744c13abb7c9ae36f8d4cac4503de
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-1b41321e1d4744c13abb7c9ae36f8d4cac4503de.tag
 Processing  EN-Merkel-Europe-fdf6c751b7a86793fb0fe9c37c298dc3e355014d
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
@@ -340,8 +318,6 @@ Processing  EN-Merkel-Europe-3cc7685fea4bb486e9d02bbd99924d18d2237591
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 40
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-e2a3a6562aac6b48c2449b4e370f7b838e833f23
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-e2a3a6562aac6b48c2449b4e370f7b838e833f23.tag
 Processing  EN-Cameron-Europe-b098df87711154937922d6ecf5d767e1e377b992
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -362,10 +338,6 @@ Processing  EN-Merkel-Europe-6cf0cdb541a128a4bf7fd13dd12c5a3e062a2f44
 	Total of opinion triples generated: 7
 	Total of sentences in the tag file 52
 	Total of sentences with annotated opinions 2
-Processing  EN-Cameron-Europe-4b8fd2bbf371538c5d0dcabb1cec800b54f7d3cc
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-4b8fd2bbf371538c5d0dcabb1cec800b54f7d3cc.tag
-Processing  EN-Cameron-Europe-95e3b5b1f4b31aaca4602ff7c17d2c6cf4e40728
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-95e3b5b1f4b31aaca4602ff7c17d2c6cf4e40728.tag
 Processing  EN-Merkel-Europe-736de306bfbb953a28b00a1f6cb39f21dc886aa5
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-736de306bfbb953a28b00a1f6cb39f21dc886aa5.tag opinion id:8
 
@@ -478,8 +450,6 @@ Processing  EN-Cameron-Europe-3b599d22d9b4ca5eccb5e6f1aad97260e9d875c0
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 21
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-ea8d59a1e462ec65a02f55046a97969f5b7201a2
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-ea8d59a1e462ec65a02f55046a97969f5b7201a2.tag
 Processing  EN-Merkel-Europe-85d31a252717f9ce4a0aed0fd20029a7aef460c7
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -576,8 +546,6 @@ Processing  EN-Cameron-Europe-157f2621fcaa5818d9c51b552c607876ce7f7655
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 33
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-4e4258b2635b0e4a9d8a24ff99f16584307aa8d5
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-4e4258b2635b0e4a9d8a24ff99f16584307aa8d5.tag
 Processing  EN-Cameron-Europe-2a6879309c96ebbe4a4a0dc8e267cb7560242d08
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -604,10 +572,6 @@ Processing  EN-Cameron-Europe-407d1eda339d4dc31a6c452ecc4f8d1f51b41b71
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 41
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-23a0e1f414e083c13fb64bfb05e10f4013dc4310
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-23a0e1f414e083c13fb64bfb05e10f4013dc4310.tag
-Processing  EN-Cameron-Europe-376aedcf31acdc522dddd47f63556cd620ef57a3
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-376aedcf31acdc522dddd47f63556cd620ef57a3.tag
 Processing  EN-Cameron-Europe-d4d7a794ad4abd3070398098939c34a79923c6d6
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -656,12 +620,6 @@ Processing  EN-Merkel-Europe-5f8ec8549abedf74e1a38b71153cccffbf7cc7a7
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 29
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-46df3b4384f53e9c054f51adc55ceadf039e6c46
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-46df3b4384f53e9c054f51adc55ceadf039e6c46.tag
-Processing  EN-Cameron-Europe-8820dde8842fc0513b2ddabe9d0f386ef65891fe
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-8820dde8842fc0513b2ddabe9d0f386ef65891fe.tag
-Processing  EN-Merkel-Europe-2434746775bcb2a6c047c04c26bcc0d8a0885e83
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-2434746775bcb2a6c047c04c26bcc0d8a0885e83.tag
 Processing  EN-Cameron-Europe-52cd80194b2ad984df39a6c0e6c164be6dd60fbb
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -680,10 +638,6 @@ Processing  EN-Cameron-Europe-71b2c04a4296b8fb6051cb4325824cf6ad305472
 	Total of opinion triples generated: 5
 	Total of sentences in the tag file 53
 	Total of sentences with annotated opinions 3
-Processing  EN-Merkel-Europe-221deb5f4793578fb60ed0e8e6157b18773ac1db
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-221deb5f4793578fb60ed0e8e6157b18773ac1db.tag
-Processing  EN-Merkel-Europe-d8c322819de6ece9ef743ea49cc75b7b28ab73e7
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-d8c322819de6ece9ef743ea49cc75b7b28ab73e7.tag
 Processing  EN-Cameron-Europe-74dbb2a7bd92610f77470d422f7fae650d7c6675
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -734,10 +688,6 @@ Processing  EN-Merkel-Europe-36f17a874b11c70d9a9aaca8cfa2106bbcbc20d3
 	Total of opinion triples generated: 3
 	Total of sentences in the tag file 35
 	Total of sentences with annotated opinions 2
-Processing  EN-Merkel-Europe-6d135ba90c9032a0268d6ef9c7098ce0ca49fa09
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-6d135ba90c9032a0268d6ef9c7098ce0ca49fa09.tag
-Processing  EN-Cameron-Europe-41fd31fb1eeb395f6db8361e8e143151abeac923
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-41fd31fb1eeb395f6db8361e8e143151abeac923.tag
 Processing  EN-Merkel-Europe-592c58a701cc00e982799eed64ced27824950227
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -762,8 +712,6 @@ Processing  EN-Merkel-Europe-f4eb9ed9ac29db5e06e72fad2082f7e93c39ae61
 	Total of opinion triples generated: 6
 	Total of sentences in the tag file 40
 	Total of sentences with annotated opinions 2
-Processing  EN-Merkel-Europe-b8c9cecd8b11ae7793a73d465154f62ba746be45
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-b8c9cecd8b11ae7793a73d465154f62ba746be45.tag
 Processing  EN-Merkel-Europe-86dffb42d4632e5f0a040bd2961829e89c92cf95
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-86dffb42d4632e5f0a040bd2961829e89c92cf95.tag opinion id:11
 
@@ -850,20 +798,12 @@ Processing  EN-Cameron-Europe-6808b755522027517b783c8f3b92e9c24d95445c
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 23
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-5487fe8b69a327039f71a50f16c3a03dd5d2ba93
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-5487fe8b69a327039f71a50f16c3a03dd5d2ba93.tag
 Processing  EN-Cameron-Europe-4ee4ef4a9c4139cdd16dbf14776e712fb72fb038
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 44
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-c638c75bc34d90b9ee870bf05af7d11730282343
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-c638c75bc34d90b9ee870bf05af7d11730282343.tag
-Processing  EN-Cameron-Europe-6774005cc59f62e88d1cbb0582d39abf610d1388
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-6774005cc59f62e88d1cbb0582d39abf610d1388.tag
-Processing  EN-Katainen-Europe-b9fb336d99b44d771c1c1756b2922ddd74db292a
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Katainen-Europe-b9fb336d99b44d771c1c1756b2922ddd74db292a.tag
 Processing  EN-Merkel-Europe-3466396afa7c775ee717e775c827bbe89771a3ba
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -888,10 +828,6 @@ Processing  EN-Merkel-Europe-bd8513dd374c8c5b72d3cb199deb7cb6faf80527
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 24
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-6e4d34a98c3c5d276aef4aadf28b4534a9e6444b
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-6e4d34a98c3c5d276aef4aadf28b4534a9e6444b.tag
-Processing  EN-Merkel-Europe-ce820c7738ec3d3a444468e05414d4468548d7ac
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-ce820c7738ec3d3a444468e05414d4468548d7ac.tag
 Processing  EN-Cameron-Europe-1fa9bb25a32dc7f8cabed568bc2683282c05b399
 	Total of opinions with different scope in the tag file: 4
 	Total of skipped opinions: 0
@@ -946,18 +882,12 @@ Processing  EN-Cameron-Europe-977c54238972c1c21efb9a5fdd2d5c7924b3c2b2
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 17
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-61129f2e926719e840490c8ef9c4d6993a327077
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-61129f2e926719e840490c8ef9c4d6993a327077.tag
-Processing  EN-Cameron-Europe-23bf0ef95e0bc673b3e519f8ffea9d21962c0f11
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-23bf0ef95e0bc673b3e519f8ffea9d21962c0f11.tag
 Processing  EN-Cameron-Europe-93a8ea1c81a12ad0b112b894cb8b367e6e75ca9c
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 29
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-f1b426480caf9a1e518c719726588e4b1f0d53e6
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-f1b426480caf9a1e518c719726588e4b1f0d53e6.tag
 Processing  EN-Cameron-Europe-f4eb9ed9ac29db5e06e72fad2082f7e93c39ae61
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -1062,8 +992,6 @@ Processing  EN-Cameron-Europe-94364bc01c3d79ed73c83305b12df603bd1aa13a
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 21
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-70a3c57753ee74b9ce87100127ea828e609b8b5d
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-70a3c57753ee74b9ce87100127ea828e609b8b5d.tag
 Processing  EN-Cameron-Europe-012c00da211a31439fd1db08d2f953bce045e87e
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -1096,8 +1024,6 @@ Processing  EN-Cameron-Europe-de929ed126f7688cd6414de3940f66399192bfd5
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 8
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-0218a1572c488088e2aa462e83d031812f284f0e
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-0218a1572c488088e2aa462e83d031812f284f0e.tag
 Processing  EN-Cameron-Europe-375e37a769d6981248c9ac65b7bf1e697352cfad
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -1140,10 +1066,6 @@ Processing  EN-Cameron-Europe-3e1c59ab7dc570350215661a0ec44ff14857bbcf
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 20
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-a2c74a812fcf7777631c3fa4fbc52259e26e2d36
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-a2c74a812fcf7777631c3fa4fbc52259e26e2d36.tag
-Processing  EN-Merkel-Europe-0f3851f3b91a31a75fa8e47e56ef88f063be9976
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-0f3851f3b91a31a75fa8e47e56ef88f063be9976.tag
 Processing  EN-Merkel-Europe-53003160cba36a50182832b5afc6a32a881eeac4
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-53003160cba36a50182832b5afc6a32a881eeac4.tag opinion id:6
 
@@ -1200,10 +1122,6 @@ Processing  EN-Cameron-Europe-a29541cf9dfbfc193aec6a19fc5233036ca8eb49
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 20
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-3deeaffe8350b50b9bdf87b75792ff15b3e1222e
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-3deeaffe8350b50b9bdf87b75792ff15b3e1222e.tag
-Processing  EN-Merkel-Europe-c0c3e3a025b23c3f048b31e007b1487b39fc6418
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-c0c3e3a025b23c3f048b31e007b1487b39fc6418.tag
 Processing  EN-Cameron-Europe-ea19d351f3305ea75df2dc4c5a805a80de273880
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -1250,8 +1168,6 @@ Processing  EN-Cameron-Europe-957155be844db498c9d2a17f28c77cd80b4647e5
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 31
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-ff5717646594127b942bc5878d715835a855ab7b
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-ff5717646594127b942bc5878d715835a855ab7b.tag
 Processing  EN-Merkel-Europe-3d5dc66fd0d2afdf5833d5fbc2802a64064d09ef
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-3d5dc66fd0d2afdf5833d5fbc2802a64064d09ef.tag opinion id:10
 
@@ -1282,8 +1198,6 @@ Processing  EN-Cameron-Europe-df63808293fc70b582826228eb98d8a2fc74caed
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 47
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-f961759e118299e445c9d18be5525217f0725771
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-f961759e118299e445c9d18be5525217f0725771.tag
 Processing  EN-Cameron-Europe-2f0958d804a11afa660e13876e556b6233e4eeb5
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -1296,20 +1210,12 @@ Processing  EN-Cameron-Europe-ce820c7738ec3d3a444468e05414d4468548d7ac
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 32
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-1a8f21f7ff0a29163b42f1131931e24739c2f947
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-1a8f21f7ff0a29163b42f1131931e24739c2f947.tag
-Processing  EN-Cameron-Europe-f3437f395be87f9240bad032c69396250d581095
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-f3437f395be87f9240bad032c69396250d581095.tag
 Processing  EN-Merkel-Europe-175d6aaad427a1113c656af0294a2bc67beafed0
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 20
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-3eab5514159e1da649ddd5861a26bab60b15fa9e
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-3eab5514159e1da649ddd5861a26bab60b15fa9e.tag
-Processing  EN-Merkel-Europe-307498275a759851ed372d2483a660e3e7db0847
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-307498275a759851ed372d2483a660e3e7db0847.tag
 Processing  EN-Merkel-Europe-83a678eaf0ee2c096cd8c000f6b4797208c4c0f4
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -1334,12 +1240,6 @@ Processing  EN-Cameron-Europe-9b51e9f28a9b8e635f7eae4097927042c05bd5e8
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 46
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-68274ed13adff6c67aad760899d26703f7fee991
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-68274ed13adff6c67aad760899d26703f7fee991.tag
-Processing  EN-Cameron-Europe-664ecc21e3b45707da8cde6e98650fc9e24b4f55
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-664ecc21e3b45707da8cde6e98650fc9e24b4f55.tag
-Processing  EN-Cameron-Europe-eec129187e966f92315846a6c2f76063ae17c839
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-eec129187e966f92315846a6c2f76063ae17c839.tag
 Processing  EN-Cameron-Europe-0b1a18b5a3008a0084d34e1b5230b4f40507e784
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-0b1a18b5a3008a0084d34e1b5230b4f40507e784.tag opinion id:6
 
@@ -1390,18 +1290,12 @@ Processing  EN-Cameron-Europe-b41a3feb7a9b2ca9446fce1b48bc6f1db2d47c92
 	Total of opinion triples generated: 7
 	Total of sentences in the tag file 25
 	Total of sentences with annotated opinions 3
-Processing  EN-Cameron-Europe-d83ac9ffad4df274f6788e6e20f25764d6a37730
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-d83ac9ffad4df274f6788e6e20f25764d6a37730.tag
-Processing  EN-Merkel-Europe-607dfb192f82f48340b25b9d57012204c1075b96
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-607dfb192f82f48340b25b9d57012204c1075b96.tag
 Processing  EN-Merkel-Europe-71f281025faa7c4640f447e714562a22b6d45c26
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 33
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-6190abbaece4b09776d79bfe183a9f5037587536
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-6190abbaece4b09776d79bfe183a9f5037587536.tag
 Processing  EN-Cameron-Europe-b23800da37673fef568b47c3cbf5a78912bb0115
 	Total of opinions with different scope in the tag file: 4
 	Total of skipped opinions: 0
@@ -1416,8 +1310,6 @@ Processing  EN-Cameron-Europe-9f9f230647b2df7f2b205f34a068367c7b5d1bab
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 38
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-851693d579bf22c0400e1d622da0e7c696cdc538
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-851693d579bf22c0400e1d622da0e7c696cdc538.tag
 Processing  EN-Merkel-Europe-10d78e5cd7b141b48297de52c3f3ae2b717b8a1b
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
@@ -1438,8 +1330,6 @@ Processing  EN-Cameron-Europe-091e215c43f8da44e88a07e14009ca4fe153940a
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 12
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-9d324360ac5092b20a6b143995c439d6b3df255c
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-9d324360ac5092b20a6b143995c439d6b3df255c.tag
 Processing  EN-Merkel-Europe-5651d7de0753510776734ec7f2321af174aac367
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-5651d7de0753510776734ec7f2321af174aac367.tag opinion id:5
 
@@ -1448,8 +1338,6 @@ Processing  EN-Merkel-Europe-5651d7de0753510776734ec7f2321af174aac367
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 15
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-3bff1b02d383577a591daa41c6e223cf62ceef2d
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-3bff1b02d383577a591daa41c6e223cf62ceef2d.tag
 Processing  EN-Merkel-Europe-4ee4ef4a9c4139cdd16dbf14776e712fb72fb038
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-4ee4ef4a9c4139cdd16dbf14776e712fb72fb038.tag opinion id:12
 
@@ -1484,16 +1372,12 @@ Processing  EN-Merkel-Europe-a4e7f9c9319f44f39f455a4bf6527d74e83aa67c
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 15
 	Total of sentences with annotated opinions 0
-Processing  EN-Cameron-Europe-5f4740d78f91e9e68260901188065eea55ed2336
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-5f4740d78f91e9e68260901188065eea55ed2336.tag
 Processing  EN-Merkel-Europe-0f67c71f1ea60d12005e3bb185c44e1db1aa2fde
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 25
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-fec823609963f7ea3d30dac9386f1fb83e50f383
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-fec823609963f7ea3d30dac9386f1fb83e50f383.tag
 Processing  EN-Cameron-Europe-0c50fd5c9db17bc3bf74ed5da39629b60b30c25f
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -1512,8 +1396,6 @@ Processing  EN-Cameron-Europe-3c3ca46081d9ffdb1a62a62d7a796220b6be780b
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 51
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-4a594a450a739d96707e11653423c0a5e993a373
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-4a594a450a739d96707e11653423c0a5e993a373.tag
 Processing  EN-Cameron-Europe-75d9c5d587b46b4a6205207c51e877b6a5119914
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -1560,8 +1442,6 @@ Processing  EN-Cameron-Europe-a55bc7a1b3bb9ea6d917eda74c34ce2d4af38d6c
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 36
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-c44ea4a550d4bee67b374afcd81ee1f63f3358c7
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-c44ea4a550d4bee67b374afcd81ee1f63f3358c7.tag
 Processing  EN-Cameron-Europe-28069bd168f7107910982aec2181aa44ef37a5df
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -1580,8 +1460,6 @@ Processing  EN-Merkel-Europe-d2f6e568de0aed34821f2e819ca00c82174fc869
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 27
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-c3cbe2345be2d477bae5ff888ffc840d352aa590
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-c3cbe2345be2d477bae5ff888ffc840d352aa590.tag
 Processing  EN-Cameron-Europe-7f907b16b3591c4a12ae157532fa745d92f6fef5
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -1606,10 +1484,6 @@ Processing  EN-Cameron-Europe-17f1f9343b6c795277efe66e3acec5e9d668172d
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 59
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-7554d297d0fa02edffe364b2f48bf9b7c626bbd2
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-7554d297d0fa02edffe364b2f48bf9b7c626bbd2.tag
-Processing  EN-Cameron-Europe-25d1d81373ac87344614c62df020bc2f3d865097
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-25d1d81373ac87344614c62df020bc2f3d865097.tag
 Processing  EN-Cameron-Europe-81a8828271b63a6f7dbdf5377189b37b4f535abc
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -1622,32 +1496,24 @@ Processing  EN-Cameron-Europe-7c24cb81e136001855082a26998d7d8cc4eb2ad2
 	Total of opinion triples generated: 6
 	Total of sentences in the tag file 36
 	Total of sentences with annotated opinions 2
-Processing  EN-Merkel-Europe-775748612e473a808a84105cfbfdcb7e9fd83a44
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-775748612e473a808a84105cfbfdcb7e9fd83a44.tag
 Processing  EN-Cameron-Europe-1cbc861b9d9443fb2ff3f39a894d7ed77e5d5308
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 49
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-8d4a7a0db503de2c0e7a70a5310d70920714ff4a
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-8d4a7a0db503de2c0e7a70a5310d70920714ff4a.tag
 Processing  EN-Merkel-Europe-f0bbb844f5e4ce541c31972e203ccff08cff5947
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 19
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-4188ee9d6cdac3b68f62ee5e4ec6e1f3b8456f7d
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-4188ee9d6cdac3b68f62ee5e4ec6e1f3b8456f7d.tag
 Processing  EN-Merkel-Europe-722aa2dc5382ad4fd483a382c72243181d2b9df5
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 45
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-f963ef9aa8501ab9d04bf2828106649c46ce18af
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-f963ef9aa8501ab9d04bf2828106649c46ce18af.tag
 Processing  EN-Merkel-Europe-e2c4e4de2a352c94dc33ed57bfebfbad2303af37
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -1738,16 +1604,12 @@ Processing  EN-Cameron-Europe-805d1f23b098d81b35dd330d71790af3d9d7d4d2
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 67
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-13424075a884292d2259a669aa98673aee859c33
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-13424075a884292d2259a669aa98673aee859c33.tag
 Processing  EN-Merkel-Europe-f6b42f1e363ca6c298d2cf5f7a2e77f2338a99f9
 	Total of opinions with different scope in the tag file: 4
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 34
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-fef5d36c759032d9cd65724b7451e33b565e22f1
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-fef5d36c759032d9cd65724b7451e33b565e22f1.tag
 Processing  EN-Cameron-Europe-b9aa591bd69fcaf80ee2aefcff286ae8bdb6adb5
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -1850,8 +1712,6 @@ Processing  EN-Merkel-Europe-115544571036b12ee24c583dd3ee1e6f3338d97b
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 56
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-dff19697b77ae273b342abdfef021a4dab98eef2
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-dff19697b77ae273b342abdfef021a4dab98eef2.tag
 Processing  EN-Cameron-Europe-bb07b82d95ac5c3a2c3f58112bb9ec6400626c1b
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-bb07b82d95ac5c3a2c3f58112bb9ec6400626c1b.tag opinion id:8
 
@@ -1872,8 +1732,6 @@ Processing  EN-Merkel-Europe-97b8d85862b4581d70d1260e6216e73a84c3dc6d
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 50
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-acda6043051afa3a8db36f561be4873214a0ad2f
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-acda6043051afa3a8db36f561be4873214a0ad2f.tag
 Processing  EN-Cameron-Europe-7b4e8dc8d3547dbc66d54813af6ebf4a3f602a5b
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -1912,8 +1770,6 @@ Processing  EN-Cameron-Europe-5ce5193b1cf88bb9fc5834ea200dffcd4fed0a68
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 49
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-478639d74ae14899cb83da2c5d12c7be9f773b76
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-478639d74ae14899cb83da2c5d12c7be9f773b76.tag
 Processing  EN-Merkel-Europe-9bc39b38067d18edb1f6607544041de26798d2d8
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -1956,8 +1812,6 @@ Processing  EN-Merkel-Europe-8cc20ffa1893333018b94e54550f3e8cffff0c15
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 54
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-7d12076d4c08d06e0429efb15ae362a3ae33bdb4
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-7d12076d4c08d06e0429efb15ae362a3ae33bdb4.tag
 Processing  EN-Cameron-Europe-1d8e9eab91cf9a3ca9301ed21e6b06015a5ca404
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -1972,8 +1826,6 @@ Processing  EN-Cameron-Europe-e9d5ec94b974dac84d10510ea5d7fae3a8fdf630
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 54
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-e54be90d0c69dc8d8fc1100947aad527011c552a
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-e54be90d0c69dc8d8fc1100947aad527011c552a.tag
 Processing  EN-Cameron-Europe-d2880bd5e6c1890b4a45aed781a07d59bfe31224
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -1988,8 +1840,6 @@ Processing  EN-Merkel-Europe-29d2fbe362ed05e5564e0d9d5a655e397bd4b77a
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 27
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-4e04a5c1efba4889a0d1db803619f0bbcdb923e9
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-4e04a5c1efba4889a0d1db803619f0bbcdb923e9.tag
 Processing  EN-Cameron-Europe-408de45766419242bcefe382de53b85781b691f8
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -2014,18 +1864,12 @@ Processing  EN-Merkel-Europe-b3ad365c29e43a2f11156c58156002a2e966d422
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 31
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-39dce0c1c10acda6922699c4aed1b61d307a63e1
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-39dce0c1c10acda6922699c4aed1b61d307a63e1.tag
-Processing  EN-Merkel-Europe-ea2fab9869fef5c595538fb6ccc4dd10d3035b80
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-ea2fab9869fef5c595538fb6ccc4dd10d3035b80.tag
 Processing  EN-Merkel-Europe-5720ea4e26c60ee2ecccd5a05e0e0900de48b10e
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 45
 	Total of sentences with annotated opinions 0
-Processing  EN-Cameron-Europe-f121a3fed265cc7bec22dad72be29185a206d51d
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-f121a3fed265cc7bec22dad72be29185a206d51d.tag
 Processing  EN-Merkel-Europe-4dd5e69099988ee79c80a0c411515f0602f31eb9
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-4dd5e69099988ee79c80a0c411515f0602f31eb9.tag opinion id:3
 
@@ -2090,8 +1934,6 @@ Processing  EN-Merkel-Europe-5642abb7605da93b1143cb8c24aed8721b711304
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 60
 	Total of sentences with annotated opinions 0
-Processing  EN-Cameron-Europe-8bdcd69fd5bc349205b9b4e130f5becc86a3c50a
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-8bdcd69fd5bc349205b9b4e130f5becc86a3c50a.tag
 Processing  EN-Merkel-Europe-fb6cc32ad850bf3a311bd23d36a720555dd92271
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -2112,8 +1954,6 @@ Processing  EN-Cameron-Europe-bf9b8051a3ce007d05bc62ebd13f46a722f2dead
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 33
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-7c24cb81e136001855082a26998d7d8cc4eb2ad2
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-7c24cb81e136001855082a26998d7d8cc4eb2ad2.tag
 Processing  EN-Merkel-Europe-2655d656e13352d6fd961afdd789344a9baca484
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -2166,8 +2006,6 @@ Processing  EN-Katainen-Europe-b60f3607997b18cf41f9f8e3afd258cf428dc991
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 24
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-224a9c4946bc1c7ea7e1b1d5cce512443141fdbe
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-224a9c4946bc1c7ea7e1b1d5cce512443141fdbe.tag
 Processing  EN-Merkel-Europe-3adf40f328c7d018f069a6605f3a2357ac477c7d
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -2194,8 +2032,6 @@ Processing  EN-Cameron-Europe-bcaaeb5a15a6d869467e4d6761df84fd8f31b976
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 35
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-93bea0ce6f2febc6d079779347caf9397f904ad9
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-93bea0ce6f2febc6d079779347caf9397f904ad9.tag
 Processing  EN-Cameron-Europe-1a164f1c7d289c97f9967be1f13feb9cd414afab
 	Total of opinions with different scope in the tag file: 4
 	Total of skipped opinions: 0
@@ -2232,8 +2068,6 @@ Processing  EN-Merkel-Europe-b12c957c039eb49ad66ef94607549799d60aab1e
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 45
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-cb3cdd2c86377d8fba8a15adf9b2b1b2d2346ee5
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-cb3cdd2c86377d8fba8a15adf9b2b1b2d2346ee5.tag
 Processing  EN-Merkel-Europe-270108d3e8a1344b81500b51a8d8a1d8bd8c4926
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -2272,8 +2106,6 @@ Processing  EN-Cameron-Europe-9b5cd755c32dd6c0b1056a8383811c44e96c2ea9
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 31
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-ece7dd8d1249e2fdc158224cf1f453137eab0be0
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-ece7dd8d1249e2fdc158224cf1f453137eab0be0.tag
 Processing  EN-Cameron-Europe-d5cd0a57d6c6b926a273df69e86496feffb69a35
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
@@ -2328,8 +2160,6 @@ Processing  EN-Cameron-Europe-135e55e78ae193deb1147a7b5f67c907698f2681
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 29
 	Total of sentences with annotated opinions 0
-Processing  EN-Cameron-Europe-f61047c01121d2de8f827e17ee16a49c47416d91
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-f61047c01121d2de8f827e17ee16a49c47416d91.tag
 Processing  EN-Cameron-Europe-1be06a618470eb9329d1a94a971f45d02711c8b8
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -2358,12 +2188,6 @@ Processing  EN-Cameron-Europe-243ad6c2aabb8076d6d49c21bbe32caa0f9cd14d
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 50
 	Total of sentences with annotated opinions 0
-Processing  EN-Cameron-Europe-33b39a6f5041c50e668f6f09339023352398dc52
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-33b39a6f5041c50e668f6f09339023352398dc52.tag
-Processing  EN-Cameron-Europe-09c5e49306e49b53ed7cede5228bea99692b96bc
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-09c5e49306e49b53ed7cede5228bea99692b96bc.tag
-Processing  EN-Merkel-Europe-2c6589ce81c99297e527aa91002504eda0aae666
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-2c6589ce81c99297e527aa91002504eda0aae666.tag
 Processing  EN-Cameron-Europe-acf4600cb6d7b0523b6934d421b456d2c1c0f5d8
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -2408,8 +2232,6 @@ Processing  EN-Merkel-Europe-acd9e93a63eb877d32250ee627d4333548953f09
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 41
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-695bf8807699c855ab96ec89c195c28bb8f63211
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-695bf8807699c855ab96ec89c195c28bb8f63211.tag
 Processing  EN-Cameron-Europe-ac7bd5a2aaa66c63924318b5ca418be4c52bfc0f
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -2440,8 +2262,6 @@ Processing  EN-Merkel-Europe-2ad3392625f2f9c616d3efb67eed0ef0a4284e45
 	Total of opinion triples generated: 3
 	Total of sentences in the tag file 24
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-5da82651f9ceff905827921a73107bc95b003c7e
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-5da82651f9ceff905827921a73107bc95b003c7e.tag
 Processing  EN-Merkel-Europe-d457678ebb117a346a759f35ae209eb7cf41eff7
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-d457678ebb117a346a759f35ae209eb7cf41eff7.tag opinion id:5
 
@@ -2478,14 +2298,6 @@ Processing  EN-Cameron-Europe-062f22754d4f0e74b8d8a0868359c9bcce01cb02
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 19
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-40d1ccaf585be692d582ef44642a200255e7b9dd
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-40d1ccaf585be692d582ef44642a200255e7b9dd.tag
-Processing  EN-Cameron-Europe-7756bfc16ad809482c9b7c73d1b48982e3b72c0e
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-7756bfc16ad809482c9b7c73d1b48982e3b72c0e.tag
-Processing  EN-Cameron-Europe-a481c86b3d28ff2cee304e74de8dfddf1c6f3616
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-a481c86b3d28ff2cee304e74de8dfddf1c6f3616.tag
-Processing  EN-Merkel-Europe-6e13ef61e01d007a6051892429f27090c9136af7
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-6e13ef61e01d007a6051892429f27090c9136af7.tag
 Processing  EN-Merkel-Europe-23f53b64052cde364376add32ef72f20479527f3
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
@@ -2498,8 +2310,6 @@ Processing  EN-Merkel-Europe-a6f134c4792650827da96cafc602d2878ca45a08
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 28
 	Total of sentences with annotated opinions 0
-Processing  EN-Cameron-Europe-b3e4d70792c5a538d47a506458201796da5285ed
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-b3e4d70792c5a538d47a506458201796da5285ed.tag
 Processing  EN-Merkel-Europe-560f5fae13f2f05129af6360e9e008b0bd162eef
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -2602,8 +2412,6 @@ Processing  EN-Merkel-Europe-66bee37dec6660a49dee889bf06f435537f3fbe8
 	Total of opinion triples generated: 3
 	Total of sentences in the tag file 34
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-3ccf14fa2448e6ee6f5eb119e171c3ad7fdda225
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-3ccf14fa2448e6ee6f5eb119e171c3ad7fdda225.tag
 Processing  EN-Cameron-Europe-4a8fd296f2ab0558442af70a198cbcc242703812
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-4a8fd296f2ab0558442af70a198cbcc242703812.tag opinion id:8
 
@@ -2700,8 +2508,6 @@ Processing  EN-Merkel-Europe-7837ae08bd305b7ee65ee8f379cbff0a2fcb2ba8
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 32
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-88f7e4113c92eca7e6de7f548fc1515369329360
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-88f7e4113c92eca7e6de7f548fc1515369329360.tag
 Processing  EN-Merkel-Europe-875b378a0506eb8cdc8cb348f46c99a3a9efd3da
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -2750,8 +2556,6 @@ Processing  EN-Cameron-Europe-449e060abc5335a8bd2b595f7e8244a4b2bdee30
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 41
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-941b75ce1a8be0c1a74b19b8c490339936b03084
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-941b75ce1a8be0c1a74b19b8c490339936b03084.tag
 Processing  EN-Cameron-Europe-32df81836c62e70a3d009a2949dcc97b2ff003ba
 	Total of opinions with different scope in the tag file: 2
 	Total of skipped opinions: 0
@@ -2778,8 +2582,6 @@ Processing  EN-Merkel-Europe-8c2963cab9027099f495f52180e488d5e505bfed
 	Total of opinion triples generated: 3
 	Total of sentences in the tag file 58
 	Total of sentences with annotated opinions 3
-Processing  EN-Merkel-Europe-4ebf874e38bad2a12de7c880e42c202b11c3e73f
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-4ebf874e38bad2a12de7c880e42c202b11c3e73f.tag
 Processing  EN-Merkel-Europe-d5abaaef1e9114d8a399b4be6ea4cffb9d169335
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
@@ -2806,10 +2608,6 @@ Processing  EN-Merkel-Europe-5bff177ff7d1d9d1beab02ff774b40fd62bb463c
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 9
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-e11abd336d32900487abef03c19658ac2a09e0d4
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-e11abd336d32900487abef03c19658ac2a09e0d4.tag
-Processing  EN-Merkel-Europe-33dd837f77f9ab26be1d43b1eb425b98d7a4accc
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-33dd837f77f9ab26be1d43b1eb425b98d7a4accc.tag
 Processing  EN-Cameron-Europe-5a87b110fb89df96b82ea15695c194fba2e7a34a
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-5a87b110fb89df96b82ea15695c194fba2e7a34a.tag opinion id:5
 
@@ -2872,8 +2670,6 @@ Processing  EN-Merkel-Europe-ac2b3bd72eaa7650642ce382718799da0e2944bd
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 61
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-1b641a7bffdfd8d51a7c0744bc4404991ce28c5f
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-1b641a7bffdfd8d51a7c0744bc4404991ce28c5f.tag
 Processing  EN-Cameron-Europe-2a228fa1ce8e68ed19e23273d6cd4a6b3c4e2871
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-2a228fa1ce8e68ed19e23273d6cd4a6b3c4e2871.tag opinion id:5
 
@@ -2894,8 +2690,6 @@ Processing  EN-Merkel-Europe-fb05e5b7a046dd65751d3f46e9f9b2ab8801fc72
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 24
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-102a572191a97ac644ab15c3ac0edacc9aaef595
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-102a572191a97ac644ab15c3ac0edacc9aaef595.tag
 Processing  EN-Merkel-Europe-2fe8566f9879c9afeada06fca29bc110d6a444d0
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -2940,8 +2734,6 @@ Processing  EN-Cameron-Europe-0060f2067352fa19995e3ca427eedbc4ecac8f91
 	Total of opinion triples generated: 6
 	Total of sentences in the tag file 6
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-f4782d23cdc9f031c7ba4a97887120f4044b1ac9
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-f4782d23cdc9f031c7ba4a97887120f4044b1ac9.tag
 Processing  EN-Merkel-Europe-b8fe177ee5a38a67849085fbdb65fd2f997e8ce5
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-b8fe177ee5a38a67849085fbdb65fd2f997e8ce5.tag opinion id:7
 
@@ -2970,8 +2762,6 @@ Processing  EN-Merkel-Europe-9939319eb2d7c778de13887528a120bb9355fdee
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 50
 	Total of sentences with annotated opinions 2
-Processing  EN-Cameron-Europe-c6714ec879a36de6c383bd24ede5d33c59f8e984
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-c6714ec879a36de6c383bd24ede5d33c59f8e984.tag
 Processing  EN-Cameron-Europe-39a803230ebadb64ffafc82d5f58a509cfbdf864
 	Discarded  	/home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-39a803230ebadb64ffafc82d5f58a509cfbdf864.tag opinion id:5
 
@@ -2986,16 +2776,12 @@ Processing  EN-Merkel-Europe-758c9cc67eb6ae2139739709ee58bb7283317d78
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 10
 	Total of sentences with annotated opinions 0
-Processing  EN-Cameron-Europe-b4f1db71ea52b4d367ebfd4a4be030001dfaf0bc
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-b4f1db71ea52b4d367ebfd4a4be030001dfaf0bc.tag
 Processing  EN-Cameron-Europe-23dd360eec09b340bc42874acedd0d8ad19499fc
 	Total of opinions with different scope in the tag file: 0
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 0
 	Total of sentences in the tag file 27
 	Total of sentences with annotated opinions 0
-Processing  EN-Merkel-Europe-869ce540194081740f13e79d12392a11132328a0
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-869ce540194081740f13e79d12392a11132328a0.tag
 Processing  EN-Cameron-Europe-da2687db2aebca20a5257247409b932a4f4cc721
 	Total of opinions with different scope in the tag file: 5
 	Total of skipped opinions: 0
@@ -3026,10 +2812,6 @@ Processing  EN-Cameron-Europe-7363368f95c82c7af9caec66a67985aef7b18eb7
 	Total of opinion triples generated: 3
 	Total of sentences in the tag file 37
 	Total of sentences with annotated opinions 2
-Processing  EN-Merkel-Europe-a235d49c0cfb65b1cc8256def5706cb5c2120d90
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-a235d49c0cfb65b1cc8256def5706cb5c2120d90.tag
-Processing  EN-Cameron-Europe-d5b015d461379f4c368108aaee70e11f2c52d188
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-d5b015d461379f4c368108aaee70e11f2c52d188.tag
 Processing  EN-Cameron-Europe-705f1fdc1e21a2f18f1e2627cedefe51d558a9c3
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
@@ -3070,8 +2852,6 @@ Processing  EN-Merkel-Europe-bae56bd17f90029e364fdd346ba18e4777f11583
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 32
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-4091be871ca5f3812566db31c905eb7a4857651d
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-4091be871ca5f3812566db31c905eb7a4857651d.tag
 Processing  EN-Merkel-Europe-2a5651539f7ff4c3878080da634224eb832a5d8c
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -3102,8 +2882,6 @@ Processing  EN-Merkel-Europe-c6bdb646fbcfb83e8dcc58505dfe3d88deba81b6
 	Total of opinion triples generated: 4
 	Total of sentences in the tag file 54
 	Total of sentences with annotated opinions 2
-Processing  EN-Merkel-Europe-0373115934220061e5dadb2279c24d75851e6599
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-0373115934220061e5dadb2279c24d75851e6599.tag
 Processing  EN-Merkel-Europe-9d8e31747256d040a4b4fbfdc19242796cd59abc
 	Total of opinions with different scope in the tag file: 3
 	Total of skipped opinions: 0
@@ -3116,8 +2894,6 @@ Processing  EN-Cameron-Europe-a921887b77d69badcb4ff7fe9e319f58d3896385
 	Total of opinion triples generated: 2
 	Total of sentences in the tag file 14
 	Total of sentences with annotated opinions 1
-Processing  EN-Cameron-Europe-6195008d56e42e4aa0064f0ae45d57c36697de6b
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-6195008d56e42e4aa0064f0ae45d57c36697de6b.tag
 Processing  EN-Merkel-Europe-ee6858963b05565f75fa1cdfea32f928212f4bb4
 	Total of opinions with different scope in the tag file: 5
 	Total of skipped opinions: 0
@@ -3162,8 +2938,6 @@ Processing  EN-Cameron-Europe-de10e4c94e0ed0f081e5ba66b78545816f6a1ac2
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 28
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-c90880e09a899a8e96968db054bb320abe60fb14
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-c90880e09a899a8e96968db054bb320abe60fb14.tag
 Processing  EN-Merkel-Europe-1a696789312039a40b1447c9c1b16ee27ef03d54
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
@@ -3244,25 +3018,15 @@ Processing  EN-Merkel-Europe-f14d27b966fbbf5838e483ab9b3b9cbfe906b781
 	Total of opinion triples generated: 5
 	Total of sentences in the tag file 31
 	Total of sentences with annotated opinions 2
-Processing  EN-Cameron-Europe-161601157887d375dc8b45c9252c5f0176f57940
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-161601157887d375dc8b45c9252c5f0176f57940.tag
-Processing  EN-Cameron-Europe-1c2f3585ad4e6ec43b1d4953e2ecd50ec2b28131
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-1c2f3585ad4e6ec43b1d4953e2ecd50ec2b28131.tag
 Processing  EN-Cameron-Europe-1ce59eacba4d404b40020be9a6ea74ddf55b4c03
 	Total of opinions with different scope in the tag file: 1
 	Total of skipped opinions: 0
 	Total of opinion triples generated: 1
 	Total of sentences in the tag file 53
 	Total of sentences with annotated opinions 1
-Processing  EN-Merkel-Europe-bb9bea903b241afc737ac9902aa14227883d6a16
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Merkel-Europe-bb9bea903b241afc737ac9902aa14227883d6a16.tag
-Processing  EN-Cameron-Europe-d28f014afa29819d8ca95281fc87d2e09bcb9170
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-d28f014afa29819d8ca95281fc87d2e09bcb9170.tag
-Processing  EN-Cameron-Europe-94b578d7af304fba2c98e16d24cb86e5f34c6948
-	 TAG file not found on  /home/izquierdo/data/opinion_annotations_en/tag/news/EN-Cameron-Europe-94b578d7af304fba2c98e16d24cb86e5f34c6948.tag
 
 #########################
-Total KAF files  588
+Total KAF files  470
 Total TAG files  470
 Total sentences in all TAG files 15229
 Total sentences in all TAG files with annotated opinions 371

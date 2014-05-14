@@ -20,7 +20,7 @@
       <lp name="ixa-pipe-srl-en" timestamp="2014-05-127T13:51:38+0200" version="1.0"/>
     </linguisticProcessors>
     <linguisticProcessors layer="opinions">
-      <lp name="Manual annotations" version="1.0" timestamp="2014-05-07T15:55:52CEST"/>
+      <lp name="Manual annotations" version="1.0" timestamp="2014-05-14T11:17:45CEST"/>
     </linguisticProcessors>
   </kafHeader>
   <text>
@@ -17822,4 +17822,64 @@
       <edge id="tre2461" from="ter866" to="nter1595"/>
     </tree>
   </constituency>
+  <opinions>
+    <opinion oid="o0">
+      <!--Marked as NON-OPINIONATED in the tag files-->
+      <opinion_expression polarity="NON-OPINIONATED">
+        <span>
+          <target id="t230"/>
+          <target id="t231"/>
+          <target id="t232"/>
+          <target id="t233"/>
+          <target id="t234"/>
+          <target id="t235"/>
+          <target id="t236"/>
+          <target id="t237"/>
+          <target id="t238"/>
+          <target id="t239"/>
+          <target id="t240"/>
+          <target id="t241"/>
+          <target id="t242"/>
+          <target id="t243"/>
+          <target id="t244"/>
+          <target id="t245"/>
+          <target id="t246"/>
+          <target id="t247"/>
+          <target id="t248"/>
+          <target id="t249"/>
+          <target id="t289"/>
+          <target id="t290"/>
+          <target id="t291"/>
+          <target id="t292"/>
+          <target id="t293"/>
+          <target id="t294"/>
+          <target id="t295"/>
+          <target id="t296"/>
+          <target id="t297"/>
+          <target id="t298"/>
+          <target id="t299"/>
+          <target id="t300"/>
+          <target id="t301"/>
+          <target id="t302"/>
+          <target id="t303"/>
+          <target id="t304"/>
+          <target id="t305"/>
+          <target id="t306"/>
+          <target id="t307"/>
+          <target id="t308"/>
+          <target id="t309"/>
+          <target id="t310"/>
+          <target id="t311"/>
+          <target id="t312"/>
+          <target id="t313"/>
+          <target id="t314"/>
+          <target id="t315"/>
+          <target id="t316"/>
+          <target id="t317"/>
+          <target id="t318"/>
+          <target id="t319"/>
+        </span>
+      </opinion_expression>
+    </opinion>
+  </opinions>
 </KAF>
